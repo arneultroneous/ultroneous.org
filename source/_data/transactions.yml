@@ -6260,3 +6260,19 @@
   from: Arne Slawik
   to: World
   reason: "Toilet."
+- date: 2017-10-23
+  time: 00:00
+  timezone: WEST
+  amount: 10000
+  currency: EUR
+  from: Budgeting
+  to: Gift Economics Budget
+  reason: "Budget for Arne to experiment with gift economics."
+- date: 2017-10-23
+  time: 00:00
+  timezone: WEST
+  amount: 105000
+  currency: EUR
+  from: Budgeting
+  to: Monte Novo Budget
+  reason: "Budget for Arne and Spencer to make an offer to buy property."

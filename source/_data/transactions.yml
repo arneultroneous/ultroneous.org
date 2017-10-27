@@ -6268,3 +6268,19 @@
   from: Budgeting
   to: Monte Novo Budget
   reason: "Budget for Arne and Spencer to make an offer to buy property."
+- date: 2017-10-27
+  time: 21:18:00
+  timezone: WEST
+  amount: 2113.21
+  currency: EUR
+  from: Exchanging
+  to: Arne Slawik
+  reason: "Exchanging EUR for ETH."
+- date: 2017-10-27
+  time: 21:18:00
+  timezone: WEST
+  amount: 8.3056
+  currency: ETH
+  from: Arne Slawik
+  to: Exchanging
+  reason: "Exchanging EUR for ETH."

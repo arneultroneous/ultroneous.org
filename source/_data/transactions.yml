@@ -6172,6 +6172,38 @@
   from: World
   to: Spencer Campbell
   reason: "Donating credit."
+- date: 2017-10-16
+  time: n/a
+  timezone: WEST
+  amount: 4.98
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Corn,Olives,Water."
+- date: 2017-10-17
+  time: n/a
+  timezone: WEST
+  amount: 2.15
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Motorwaytaxes."
+- date: 2017-10-17
+  time: n/a
+  timezone: WEST
+  amount: 3.02
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Organic Pears."
+- date: 2017-10-17
+  time: n/a
+  timezone: WEST
+  amount: 4.45
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Connector for carbattery."
 - date: 2017-10-18
   time: n/a
   timezone: WEST

@@ -25,13 +25,10 @@
     - "We explain how bitcoin mining works as a process of computers trying to guess numbers, finding one that fits with one block of transactions, so that the hashing algorithm converts the block into a hash with sufficiently many zeroes at the front."
 - name: "documenting patterns"
   expectations:
-    - "I notice something we expect to do, and think of a gerund phrase to name it as a pattern."
-    - "I think of the elements that I experience when I am in the pattern."
-    - "I document the attractors that the pattern manifests."
-    - "I write an entry in the patterns file consisting of name, elements, and attractors."
-  attractors:
-    - "We know what we expected to do in the past."
-    - "We know what we expect to do in the future."
+    - "Our way of doing things is documented in a YAML file, as a list of patterns."
+    - "We name our patterns as gerund phrases."
+    - "We write down what we expect to be true, as part of each pattern."
+    - "One or more of us are carrying responsibility to improve each documented pattern."
 - name: "staying in communication"
   expectations:
     - "I answer proposals on loomio within 24 hours."

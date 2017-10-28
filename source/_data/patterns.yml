@@ -1,10 +1,14 @@
+- name: "cultivating healthy habits"
+  subpatterns:
+    - "observing body feeling after eating"
+    - "making decisions based on feelings."
 - name: "observing body feeling after eating"
   expectations:
-    - "I eat everything I desire with full greatfulness."
-    - "I observe what my body is telling me and how my energylevel is adjusting. "
-    - "I start to desire mostly things which make me feel great."
-    - "I don't regret when I eat something unhealthy and just observe what it does to me."
-    - "I gain more consciousness for many parts in my life."
+    - "We eat everything we desire with full gratitude."
+    - "We observe what our body is telling us and how our energy level is adjusting."
+    - "We start to desire mostly things which make us feel great."
+    - "We don't regret when we eat something unhealthy and just observe what it does to us."
+    - "We gain more consciousness for many parts of our life."
 - name: "making decisions based on feelings."
   expectations:
     - "We collect information about the decision we want to make."

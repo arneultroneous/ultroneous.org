@@ -26,7 +26,7 @@
 - name: "documenting patterns"
   expectations:
     - "Our way of doing things is documented in a YAML file, as a list of patterns."
-    - "We name our patterns as gerund phrases."
+    - "We name our patterns as gerund phrases, so that they complete sentences of the form 'we are...'."
     - "We write down what we expect to be true, as part of each pattern."
     - "One or more of us are carrying responsibility to improve each documented pattern."
 - name: "practising worldlove"

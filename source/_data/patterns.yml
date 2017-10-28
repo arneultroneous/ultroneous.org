@@ -29,11 +29,6 @@
     - "We name our patterns as gerund phrases."
     - "We write down what we expect to be true, as part of each pattern."
     - "One or more of us are carrying responsibility to improve each documented pattern."
-- name: "staying in communication"
-  expectations:
-    - "I answer proposals on loomio within 24 hours."
-  attractors:
-    - "We make decisions as a team easily, soon after questions arise."
 - name: "practising worldlove"
   expectations:
     - "I leave my 'workspace'."

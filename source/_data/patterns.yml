@@ -60,14 +60,29 @@
     - "We stay in high awareness of our emotional wellbeing, and speak to our team when trading is causing stress in our lives."
     - "We look at the market as an animal, buying to care for it when it's weak, and selling to set it free when it's strong."
     - "If we strongly believe that cryptocurrency will take over the world in the coming years, we only trade in bear markets, never in bull markets."
-- name: "hosting network contacts in a team gathering"
+- name: "involving people"
   expectations:
-    - "I only step into this role when I intuitively sense the magic that says one of my contacts is ready to commit to the cooperative."
-    - "At the moment when I feel it's right to invite them, I tell them I feel that, and I will check with my team first, before I invite."
-    - "I clarify with my team what to propose to my contacts before I invite them, and get consent from my team to follow through if they accept."
-    - "I clarify with my team what I think and feel my contacts will contribute to the cooperative, and gather consent on a proposal to make to them."
-    - "I invite my contacts to meet with my team to check the proposal together."
-    - "If the proposal includes them joining my team, it includes at least one role for them."
+    - "We hold weekly online circles, where we invite our friends to connect with us."
+    - "We document our contacts on crm.ultroneous.org."
+    - "We keep documentation of how passionate our contacts are to work for our vision and values."
+    - "We keep documentation of how clearly our contacts understand our mission and principles."
+    - "We assign one-minute managers from our teams to receive engagement from our volunteers."
+    - "We cultivate consent economics at every opportunity."
+  subpatterns:
+    - "cultivating consent economics"
+    - "documenting contacts"
+    - "receiving voluntary engagement"
+- name: "cultivating consent economics"
+  expectations:
+    - "We know how we relate to people, on the Wheel of Consent, noticing when we or they change quadrant."
+    - "We only accept gifts and services offered freely, without trying to convince, making it clear when we stand in the receiving half of the Wheel of Consent."
+    - "We only offer gifts and services freely, without trying to benefit, making it clear when we stand in the giving half of the Wheel of Consent."
+- name: "cultivating consent economics"
+  expectations: TODO
+- name: "documenting contacts"
+  expectations: TODO
+- name: "receiving voluntary engagement"
+  expectations: TODO
 - name: "sustaining change"
   expectations:
     - "We use the Changing Leadership practices described in the book Sustaining Change."

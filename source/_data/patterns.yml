@@ -23,11 +23,6 @@
     - "We explain how a cryptocurrency transaction can be verified as originating from the sender, because it is signed cryptographically."
     - "We explain that bitcoin's blockchain is a list of transactions, each consisting of a sender, a receiver, an amount, a fee, and a miner."
     - "We explain how bitcoin mining works as a process of computers trying to guess numbers, finding one that fits with one block of transactions, so that the hashing algorithm converts the block into a hash with sufficiently many zeroes at the front."
-- name: "documenting attractors"
-  expectations:
-    - "I notice an attractive possibility, and I write it in the attractors file."
-  attractors:
-    - "Our motives are documented, transparent, and regularly reviewed to evaluate our performance as a cooperative."
 - name: "documenting patterns"
   expectations:
     - "I notice something we expect to do, and think of a gerund phrase to name it as a pattern."

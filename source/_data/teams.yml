@@ -3,49 +3,37 @@
     - address: spencer@ultroneous.org
       title: Organizer
       responsibilities:
-        picking-up:
-            - "sustaining change"
-            - "practicing one-minute management"
-        carrying:
-            - "learning and improving"
-            - "providing a credit system"
-            - "explaining cryptocurrency clearly and accurately"
-            - "serving communities"
-            - "involving people"
-        letting-go:
+        - "sustaining change"
+        - "practicing one-minute management"
+        - "learning and improving"
+        - "providing a credit system"
+        - "explaining cryptocurrency clearly and accurately"
+        - "serving communities"
+        - "involving people"
     - address: dioalma@gmail.com
       title: Technician
       responsibilities:
-        picking-up:
-            - "providing technical tools"
-            - "practicing one-minute management"
-        carrying:
-            - "doing technical work"
-            - "storing electronics"
-        letting-go:
-            - "trading cryptocurrency"
+        - "providing technical tools"
+        - "practicing one-minute management"
+        - "doing technical work"
+        - "storing electronics"
+        - "trading cryptocurrency"
     - name: Arne Slawik
       address: arneultroneous@protonmail.com
       title: Notekeeper
       responsibilities:
-        picking-up:
-            - "learning and improving"
-            - "practicing one-minute management"
-        carrying:
-            - "storing electronics"
-            - "cultivating healthy habits"
-        letting-go:
+        - "learning and improving"
+        - "practicing one-minute management"
+        - "storing electronics"
+        - "cultivating healthy habits"
     - name: Shirley Norwood
       address: smnaus@gmail.com
       title: Body/Mind/Heart Connector
       responsibilities:
-        picking-up:
-            - "providing container leadership"
-            - "anticipating emergencies and providing tools to address them"
-            - "practicing one-minute management"
-        carrying:
-            - "providing spaces for heart connection"
-            - "listening and loving"
-            - "providing feeling tools"
-            - "providing thinking tools"
-        letting-go:
+        - "providing container leadership"
+        - "anticipating emergencies and providing tools to address them"
+        - "practicing one-minute management"
+        - "providing spaces for heart connection"
+        - "listening and loving"
+        - "providing feeling tools"
+        - "providing thinking tools"

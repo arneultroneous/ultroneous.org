@@ -87,10 +87,10 @@
   expectations:
     - "We use the Changing Leadership practices described in the book Sustaining Change."
   subprocesses:
-    - "providing containers"
-    - "providing attractors"
-    - "providing edge and tension"
-    - "transforming space"
+    - "providing container leadership"
+    - "providing attractor leadership"
+    - "providing edge and tension leadership"
+    - "prodiving transforming space leadership"
 - name: "providing container leadership"
   expectations:
     - "I am self-assured and confident, taking a stand for my beliefs."
@@ -99,6 +99,12 @@
     - "I make it safe to say risky things and have the 'hard to have' conversations through empathy and high quality dialogue skills."
     - "I set and contract boundaries, clear expectations and hard rules so that people know what to operate on and how to operate."
     - "I create alignment at the top and build networks of relationships that stay in tune with the system and can channel the change."
+- name: "providing attractor leadership"
+  expectations: TODO
+- name: "providing edge and tension leadership"
+  expectations: TODO
+- name: "prodiving transforming space leadership"
+  expectations: TODO
 - name: "doing technical work"
   expectations:
     - "I find ways to do things that the cooperative doesn't know how to do yet."

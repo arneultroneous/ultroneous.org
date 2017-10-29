@@ -1,6 +1,7 @@
 - name: Startup
   players:
-    - address: spencer@ultroneous.org
+    - name: Spencer Campbell
+      address: spencer@ultroneous.org
       title: Organizer
       responsibilities:
         - "sustaining change"
@@ -10,7 +11,8 @@
         - "involving people"
         - "serving communities"
         - "explaining cryptocurrency clearly and accurately"
-    - address: dioalma@gmail.com
+    - name: Dio Alma
+      address: dioalma@gmail.com
       title: Technician
       responsibilities:
         - "learning and improving"

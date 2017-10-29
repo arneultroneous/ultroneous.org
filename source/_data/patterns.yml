@@ -125,6 +125,12 @@
     - "setting one-minute goals"
     - "giving one-minute praisings"
     - "giving one-minute redirects"
+- name: "setting one-minute goals"
+  expectations: TODO
+- name: "giving one-minute praisings"
+  expectations: TODO
+- name: "giving one-minute redirects"
+  expectations: TODO
 - name: "Crossing arms and legs to get calm"
   expectations:
     - "I notice when I am felling out of balance."

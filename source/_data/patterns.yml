@@ -116,12 +116,15 @@
     - "We encourage our managers to make requests to us freely, without worrying about what we want."
     - "When we are asked to do something we are unwilling to do, we clearly refuse, and offer an alternative."
     - "When we see a way to serve a community better, we offer the idea to our managers, without concern for what answer comes back."
-- name: "managing a team"
+- name: "practicing one-minute management"
   expectations:
-    - "I make sure everyone on my team has read One-Minute Manager."
-    - "I work to keep all the tasks on my team's kanban clear, as one-minute goals."
-    - "I call attention to good performance in my team, and celebrate it with one-minute praisings."
-    - "I call attention to poor performance in my team, and celebrate it with one-minute reprimands."
+    - "We ask everyone we work with to read One-Minute Manager."
+    - "We clarify intentions and expectations for ourselves and our teammates by setting one-minute goals."
+    - "We encourage ourselves and our teammates to learn and improve by giving one-minute praisings and redirects."
+  subpatterns:
+    - "setting one-minute goals"
+    - "giving one-minute praisings"
+    - "giving one-minute redirects"
 - name: "Crossing arms and legs to get calm"
   expectations:
     - "I notice when I am felling out of balance."

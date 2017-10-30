@@ -27,6 +27,16 @@
         </div>
         <input name="reason" id="transaction-form-reason" type="text" placeholder="reason"></input>
     </fieldset>
+    <fieldset>
+        <div>
+            Budget or expense category:
+        </div>
+        <select name="budget" id="transaction-form-budget">
+            {% for budget in site.data.budgets %}
+            <option value="{{budget.name}}"></option>
+            {% endfor %}
+        </select>
+    </fieldset>
 </form>
 <script>
 var timezone = document.getElementById("transaction-form-timezone");

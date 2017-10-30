@@ -1,3 +1,12 @@
-- name: food
-- name: petrol
+- name: expenses (addiction)
+- name: expenses (food)
+- name: expenses (other)
+- name: expenses (petrol)
+- name: expenses (pleasure)
+- name: expenses (telecom)
+- name: expenses (tools)
 - name: gifts
+- name: lodging
+- name: trading (external)
+- name: trading (internal)
+- name: transfers

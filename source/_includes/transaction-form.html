@@ -1,0 +1,34 @@
+<form id="transaction-form">
+    <fieldset>
+        <div>
+            Date and time:
+        </div>
+        <input name="date" id="transaction-form-date" type="date" placeholder="date"></input>
+        <input name="time" id="transaction-form-time" type="time" placeholder="time"></input>
+        <input name="timezone" id="transaction-form-timezone" type="text" placeholder="timezone"></input>
+    </fieldset>
+    <fieldset>
+        <div>
+            Amount and currency:
+        </div>
+        <input name="amount" id="transaction-form-amount" type="number" placeholder="amount"></input>
+        <input name="currency" id="transaction-form-currency" type="text" placeholder="currency"></input>
+    </fieldset>
+    <fieldset>
+        <div>
+            Sending and receiving accounts:
+        </div>
+        <input name="from" id="transaction-form-from" type="text" placeholder="from account"></input>
+        <input name="to" id="transaction-form-to" type="text" placeholder="to account"></input>
+    </fieldset>
+    <fieldset>
+        <div>
+            Story behind the transaction:
+        </div>
+        <input name="reason" id="transaction-form-reason" type="text" placeholder="reason"></input>
+    </fieldset>
+</form>
+<script>
+var timezone = document.getElementById("transaction-form-timezone");
+timezone.value = "UTC";
+</script>

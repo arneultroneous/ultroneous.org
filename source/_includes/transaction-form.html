@@ -23,19 +23,19 @@
     </fieldset>
     <fieldset>
         <div>
-            Story behind the transaction:
-        </div>
-        <input name="reason" id="transaction-form-reason" type="text" placeholder="reason"></input>
-    </fieldset>
-    <fieldset>
-        <div>
             Budget or expense category:
         </div>
         <select name="budget" id="transaction-form-budget">
             {% for budget in site.data.budgets %}
-            <option value="{{budget.name}}"></option>
+            <option value="{{budget.name}}">{{budget.name | capitalize}}</option>
             {% endfor %}
         </select>
+    </fieldset>
+    <fieldset>
+        <div>
+            Story behind the transaction:
+        </div>
+        <input name="reason" id="transaction-form-reason" type="text" placeholder="reason"></input>
     </fieldset>
 </form>
 <script>

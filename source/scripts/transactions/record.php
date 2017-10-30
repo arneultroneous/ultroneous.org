@@ -23,16 +23,16 @@ $record = <<<EOF
   to: $to
   category: $category
   reason: $reason
-EOF
-
-
-// Create filename
-$now = new DateTime();
-$filename = $now->format("Y-m-d.H:i:s.O");
-$filename = 'output/' . $filename . '.yml';
+EOF;
 
 // Ensure output directory exists
 mkdir('output');
+
+// Create file
+$now = new DateTime();
+$filename = $now->format("Y-m-d.H:i:s.O");
+$filename = 'output/' . $filename . '.yml';
+touch($filename);
 
 // From http://php.net/manual/en/function.fwrite.php
 // Let's make sure the file exists and is writable first.

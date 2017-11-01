@@ -49,8 +49,23 @@ var to = document.getElementById("transaction-form-to");
 var category = document.getElementById("transaction-form-category");
 var reason = document.getElementById("transaction-form-reason");
 
-function getTimezone() {
-    var offset = new Date().getTimezoneOffset() / -60;
+var now = new Date();
+
+function pad(num) {
+    var s = "0" + num;
+    return s.substr(s.length-2);
+}
+
+function getTime(now) {
+    var hours = now.getHours();
+    var minutes = now.getMinutes();
+    var seconds = now.getSeconds();
+
+    return pad(hours) + ":" + pad(minutes) + ":" + pad(seconds);
+}
+
+function getTimezone(now) {
+    var offset = now.getTimezoneOffset() / -60;
     if (offset >= 0) {
         var optionalPlus = "+";
     } else {
@@ -59,5 +74,7 @@ function getTimezone() {
     return "UTC" + optionalPlus + offset.toString();
 }
 
-timezone.value = getTimezone();
+date.value = now.toISOString().slice(0,10);
+time.value = getTime(now);
+timezone.value = getTimezone(now);
 </script>

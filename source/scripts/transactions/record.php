@@ -2,6 +2,7 @@
 
 // Receive data
 // TODO: validate
+// TODO: authenticate
 $date = $_REQUEST['date'];
 $time = $_REQUEST['time'];
 $timezone = $_REQUEST['timezone'];

@@ -62,9 +62,8 @@ function pad(num) {
 function getTime(now) {
     var hours = now.getHours();
     var minutes = now.getMinutes();
-    var seconds = now.getSeconds();
 
-    return pad(hours) + ":" + pad(minutes) + ":" + pad(seconds);
+    return pad(hours) + ":" + pad(minutes);
 }
 
 function getTimezone(now) {

@@ -27,7 +27,9 @@ $record = <<<EOF
 EOF;
 
 // Ensure output directory exists
-mkdir('output');
+if (! is_dir('output') ) {
+    mkdir('output');
+}
 
 // Create file
 $now = new DateTime();

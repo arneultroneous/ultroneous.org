@@ -39,6 +39,25 @@
     </fieldset>
 </form>
 <script>
+var date = document.getElementById("transaction-form-date");
+var time = document.getElementById("transaction-form-time");
 var timezone = document.getElementById("transaction-form-timezone");
-timezone.value = "UTC";
+var amount = document.getElementById("transaction-form-amount");
+var currency = document.getElementById("transaction-form-currency");
+var from = document.getElementById("transaction-form-from");
+var to = document.getElementById("transaction-form-to");
+var category = document.getElementById("transaction-form-category");
+var reason = document.getElementById("transaction-form-reason");
+
+function getTimezone() {
+    var offset = new Date().getTimezoneOffset() / -60;
+    if (offset >= 0) {
+        var optionalPlus = "+";
+    } else {
+        var optionalPlus = "";
+    }
+    return "UTC" + optionalPlus + offset.toString();
+}
+
+timezone.value = getTimezone();
 </script>

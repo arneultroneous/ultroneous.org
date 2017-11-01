@@ -58,3 +58,5 @@ if (is_writable($filename)) {
 } else {
     throw new Exception("The file $filename is not writable");
 }
+
+echo "Transaction recorded.";

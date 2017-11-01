@@ -5,6 +5,7 @@
   currency: EUR
   from: Dio Alma
   to: World
+  category: lodging
   reason: “Payment for 108 stay”
 - date: 2017-10-08
   time: 22:53:00
@@ -13,6 +14,7 @@
   currency: BTC
   from: World
   to: Electrum
+  category: gifts
   reason: "Donation from Spencer"
 - date: 2017-10-09
   time: 10:05:00
@@ -21,6 +23,7 @@
   currency: BTC
   from: Electrum
   to: Bitfinex
+  category: transfers
   reason: “Transfer”
 - date: 2017-10-09
   time: 10:39:00
@@ -29,7 +32,8 @@
   currency: BTC
   from: Electrum
   to: Bitfinex
-  reason: “Transfer”	
+  category: transfers
+  reason: “Transfer”
 - date: 2017-10-08
   time: 20:59:00
   timezone: WEST
@@ -37,7 +41,8 @@
   currency: BTC
   from: Electrum
   to: Bitfinex
-  reason: “Transfer”	
+  category: transfers
+  reason: “Transfer”
 - date: 2017-10-08
   time: 10:39:00
   timezone: WEST
@@ -45,6 +50,7 @@
   currency: BTC
   from: Bitfinex
   to: World
+  category: trading (external)
   reason: “Trade BTC for ETH”
 - date: 2017-10-08
   time: 21:47:28

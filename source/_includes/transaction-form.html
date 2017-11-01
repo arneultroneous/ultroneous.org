@@ -3,29 +3,29 @@
         <div>
             Date and time:
         </div>
-        <input name="date" id="transaction-form-date" type="date" placeholder="date"></input>
-        <input name="time" id="transaction-form-time" type="time" placeholder="time"></input>
-        <input name="timezone" id="transaction-form-timezone" type="text" placeholder="timezone"></input>
+        <input required name="date" id="transaction-form-date" type="date" placeholder="date"></input>
+        <input required name="time" id="transaction-form-time" type="time" placeholder="time"></input>
+        <input required name="timezone" id="transaction-form-timezone" type="text" placeholder="timezone"></input>
     </fieldset>
     <fieldset>
         <div>
             Amount and currency:
         </div>
-        <input name="amount" id="transaction-form-amount" type="number" placeholder="amount"></input>
-        <input name="currency" id="transaction-form-currency" type="text" placeholder="currency"></input>
+        <input required name="amount" id="transaction-form-amount" type="number" placeholder="amount"></input>
+        <input required name="currency" id="transaction-form-currency" type="text" placeholder="currency"></input>
     </fieldset>
     <fieldset>
         <div>
             Sending and receiving accounts:
         </div>
-        <input name="from" id="transaction-form-from" type="text" placeholder="from account"></input>
-        <input name="to" id="transaction-form-to" type="text" placeholder="to account"></input>
+        <input required name="from" id="transaction-form-from" type="text" placeholder="from account"></input>
+        <input required name="to" id="transaction-form-to" type="text" placeholder="to account"></input>
     </fieldset>
     <fieldset>
         <div>
             Transaction category, budget or expense type:
         </div>
-        <select name="budget" id="transaction-form-budget">
+        <select required name="budget" id="transaction-form-budget">
             {% for budget in site.data.budgets %}
             <option value="{{budget.name}}">{{budget.name | capitalize}}</option>
             {% endfor %}
@@ -35,7 +35,10 @@
         <div>
             Story behind the transaction:
         </div>
-        <input name="reason" id="transaction-form-reason" type="text" placeholder="reason"></input>
+        <input required name="reason" id="transaction-form-reason" type="text" placeholder="reason"></input>
+    </fieldset>
+    <fieldset>
+        <input type="submit"></input>
     </fieldset>
 </form>
 <script>

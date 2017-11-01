@@ -50,7 +50,7 @@ if (is_writable($filename)) {
     }
 
     // Write $record to our opened file.
-    if (fwrite($handle, $record) === FALSE) {
+    if (fwrite($handle, $record . PHP_EOL) === FALSE) {
         throw new Exception("Cannot write to file ($filename)");
         exit;
     }

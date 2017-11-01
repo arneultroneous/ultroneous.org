@@ -1,4 +1,4 @@
-<form id="transaction-form" action="/scripts/transactions/record.php">
+<form id="transaction-form" action="/scripts/transactions/record.php" target="_blank">
     <fieldset>
         <div>
             Date and time:
@@ -25,9 +25,9 @@
         <div>
             Transaction category, budget or expense type:
         </div>
-        <select required name="budget" id="transaction-form-budget">
-            {% for budget in site.data.budgets %}
-            <option value="{{budget.name}}">{{budget.name | capitalize}}</option>
+        <select required name="category" id="transaction-form-category">
+            {% for category in site.data.budgets %}
+            <option value="{{category.name}}">{{category.name | capitalize}}</option>
             {% endfor %}
         </select>
     </fieldset>

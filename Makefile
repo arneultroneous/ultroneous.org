@@ -4,7 +4,7 @@ DOCROOT ?= www/ultroneous.org
 default: build
 
 build: source
-	jekyll build --source source --destination build
+	jekyll build --source source --destination build --incremental
 
 docker-build: source
 	docker build -t ultroneous.org .

@@ -125,3 +125,12 @@
     - "I answer proposals on loomio within 24 hours."
   attractors:
     - "We make decisions as a team easily, soon after questions arise."
+- name: "answering team email"
+  elements:
+    - "Our team has an email account, which we share responsibility for answering."
+    - "We keep every thread assigned to at least one of us."
+    - "We are responsible for replying to the threads in the inbox that are assigned to us."
+    - "No thread is left in the inbox without a reply from us for more than 7 days."
+    - "We continuously pull threads assigned to us from the inbox to the archive when they aren't relevant anymore."
+    - "When we see an unassigned thread, we assign it to ourselves or one of our teammates."
+    - "When a thread assigned to us isn't relevant for us anymore, but it is relevant for another teammate, we reassign it instead of archiving it."

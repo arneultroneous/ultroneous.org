@@ -27,6 +27,7 @@ Note: this page is under construction. The intention is to keep our cooperative'
     {% endfor %}
     </tr>
 {% for account in accounts %}
+{% if account != "Exchanging" %}
     <tr>
         <td>
             {{ account }}
@@ -46,6 +47,7 @@ Note: this page is under construction. The intention is to keep our cooperative'
         </td>
     {% endfor %}
     </tr>
+{% endif %}
 {% endfor %}
 </table>
 

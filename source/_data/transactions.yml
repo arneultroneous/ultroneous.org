@@ -6268,7 +6268,7 @@
   to: World
   category: gifts
   reason: Donation to stranger in Lisbon.
-- date: n/a
+- date: 2017-11-03
   time: n/a
   timezone: UTC+0
   amount: 1350
@@ -6276,7 +6276,7 @@
   from: Dio Alma
   to: Arne Slawik
   category: transfers
-  reason: Transfer from Dio to Arne.
+  reason: Transfer from Dio to Arne to pay for PDC.
 - date: 2017-10-10
   time: n/a
   timezone: UTC+0

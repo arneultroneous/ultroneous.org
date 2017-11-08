@@ -5936,7 +5936,7 @@
   amount: 79.99
   currency: ETH
   from: Bitfinex
-  to: Ethereum
+  to: CoopMyEtherWallet
   reason: "Withdrawal"
 - date: 2017-09-13
   time: 21:40:27
@@ -5967,7 +5967,7 @@
   timezone: UTC
   amount: 79.986863
   currency: ETH
-  from: Ethereum
+  from: CoopMyEtherWallet
   to: "World"
   reason: "Purchase of Herocoin"
 - date: 2017-09-14
@@ -5976,7 +5976,7 @@
   amount: 999822.5
   currency: PLAY
   from: World
-  to: Ethereum
+  to: CoopMyEtherWallet
   reason: "Purchase of Herocoin"
 - date: 2017-09-30
   time: 12:21

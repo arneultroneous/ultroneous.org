@@ -117,7 +117,10 @@
   expectations: TODO
 - name: "doing technical work"
   expectations:
-    - "We find ways to do things that the cooperative doesn't know how to do yet."
+     - "We deliver sollutions for the technical desires of our team."
+     - "We research on technical knowledge that is not existing yet in our team."
+     - "We maintain and operate the techical tools of the team."
+     - "We give knowledge on how to operate techical tools."
 - name: "serving communities"
   expectations:
     - "We make clear offers of time to our communities, specifying exactly the days and hours that we are willing to commit to service."
@@ -158,8 +161,6 @@
 - name: "providing feeling tools"
   expectations: TODO
 - name: "providing thinking tools"
-  expectations: TODO
-- name: "providing technical tools"
   expectations: TODO
 - name: "clarifying expectations"
   expectations:

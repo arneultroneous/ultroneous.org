@@ -15,12 +15,7 @@
   expectations:
     - "We collect information about the decision we want to make."
     - "We view our different approaches in connection with the driver/attractor."
-<<<<<<< HEAD
     - "In the situation where we are not sure due to not clear pros or cons we feel into our body and observe body sensations while imagining the outcome (using Whole Brain posture)"
-=======
-    - "In the situation where we are not sure due to not clear pros or cons we feel into our body and observe body sensations
-       while imagening the outcome(using Whole Brain posture)"
->>>>>>> master
     - "We bravely decide by 'listening' to these feelings and sensations, trusting the that this is the decision to follow even
        when the brain tries to intervene with logic."
 - name: "explaining cryptocurrency clearly and accurately"
@@ -29,6 +24,15 @@
     - "We explain how a cryptocurrency transaction can be verified as originating from the sender, because it is signed cryptographically."
     - "We explain that bitcoin's blockchain is a list of transactions, each consisting of a sender, a receiver, an amount, a fee, and a miner."
     - "We explain how bitcoin mining works as a process of computers trying to guess numbers, finding one that fits with one block of transactions, so that the hashing algorithm converts the block into a hash with sufficiently many zeroes at the front."
+- name: "answering team email"
+  elements:
+    - "Our team has an email account, which we share responsibility for answering."
+    - "We keep every thread assigned to at least one of us."
+    - "We are responsible for replying to the threads in the inbox that are assigned to us."
+    - "No thread is left in the inbox without a reply from us for more than 7 days."
+    - "We continuously pull threads assigned to us from the inbox to the archive when they aren't relevant anymore."
+    - "When we see an unassigned thread, we assign it to ourselves or one of our teammates."
+    - "When a thread assigned to us isn't relevant for us anymore, but it is relevant for another teammate, we reassign it instead of archiving it."
 - name: "documenting patterns"
   expectations:
     - "Our way of doing things is documented in a YAML file, as a list of patterns."

@@ -45,6 +45,7 @@
   currency: ETH
   from: World
   to: Dio Alma
+  reason: "Trade BTC for ETH"
 - date: 2017-10-09
   time: 12:24:25
   timezone: WEST
@@ -52,6 +53,7 @@
   currency: ETH
   from: World
   to: Dio Alma
+  reason: "Trade BTC for ETH"
 - date: 2017-09-29
   time: n/a
   timezone: WEST

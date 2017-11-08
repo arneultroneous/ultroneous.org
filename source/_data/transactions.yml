@@ -6123,7 +6123,7 @@
   timezone: WEST
   amount: 2120.39
   currency: EUR
-  from: Exchanging
+  from: World
   to: Arne Slawik
   reason: "Exchanging EUR for ETH."
 - date: 2017-10-27
@@ -6132,5 +6132,5 @@
   amount: 8.3056
   currency: ETH
   from: Arne Slawik
-  to: Exchanging
+  to: World
   reason: "Exchanging EUR for ETH."

@@ -5,7 +5,6 @@
   currency: EUR
   from: Dio Alma
   to: World
-  category: lodging
   reason: “Payment for 108 stay”
 - date: 2017-10-08
   time: 22:53:00
@@ -13,44 +12,15 @@
   amount: 200
   currency: BTC
   from: World
-  to: Electrum
-  category: gifts
+  to: Dio Alma
   reason: "Donation from Spencer"
-- date: 2017-10-09
-  time: 10:05:00
-  timezone: WEST
-  amount: 0.01
-  currency: BTC
-  from: Electrum
-  to: Bitfinex
-  category: transfers
-  reason: “Transfer”
-- date: 2017-10-09
-  time: 10:39:00
-  timezone: WEST
-  amount: 199.99
-  currency: BTC
-  from: Electrum
-  to: Bitfinex
-  category: transfers
-  reason: “Transfer”
-- date: 2017-10-08
-  time: 20:59:00
-  timezone: WEST
-  amount: 45.08000580
-  currency: BTC
-  from: Electrum
-  to: Bitfinex
-  category: transfers
-  reason: “Transfer”
 - date: 2017-10-08
   time: 10:39:00
   timezone: WEST
   amount: 45.08000580
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
-  category: trading (external)
   reason: “Trade BTC for ETH”
 - date: 2017-10-08
   time: 21:47:28
@@ -58,22 +28,14 @@
   amount: 664.88838518
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: “Trade BTC for ETH”	
-- date: 2017-10-08
-  time: 21:47:28
-  timezone: WEST
-  amount: 664.88838518
-  currency: ETH
-  from: Bitfinex
-  to: CoopMyEtherWallet
-  reason: “Trade BTC for ETH”
 - date: 2017-10-09
   time: 12:08:12
   timezone: WEST
   amount: 200
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: “Trade BTC for ETH”
 - date: 2017-10-09
@@ -82,30 +44,16 @@
   amount: 2998.48901064
   currency: ETH
   from: World
-  to: Bitfinex
-- date: 2017-10-09
-  time: 12:08:12
-  timezone: WEST
-  amount: 2998.48901064
-  currency: ETH
-  from: Bitfinex
-  to: CoopMyEtherWallet
-  reason: “Trade BTC for ETH”
+  to: Dio Alma
+  reason: "Trade BTC for ETH"
 - date: 2017-10-09
   time: 12:24:25
   timezone: WEST
   amount: 3.30662636
   currency: ETH
   from: World
-  to: Bitfinex
-- date: 2017-10-09
-  time: 12:24:25
-  timezone: WEST
-  amount: 3.30662636
-  currency: ETH
-  from: Bitfinex
-  to: CoopMyEtherWallet
-  reason: “Trade BTC for ETH”
+  to: Dio Alma
+  reason: "Trade BTC for ETH"
 - date: 2017-09-29
   time: n/a
   timezone: WEST
@@ -117,17 +65,9 @@
 - date: 2017-09-27
   time: 20:53:00
   timezone: WEST
-  amount: 21
-  currency: ETH
-  from: Bitfinex
-  to: Jaxx
-  reason: "Transfer"
-- date: 2017-09-27
-  time: 20:53:00
-  timezone: WEST
   amount: 0.000441
   currency: ETH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-27
@@ -135,7 +75,7 @@
   timezone: WEST
   amount: 13.23
   currency: ETH
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "Bitmain Antminer S9 used"
 - date: 2017-09-27
@@ -143,7 +83,7 @@
   timezone: WEST
   amount: 0.000441
   currency: ETH
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-28
@@ -151,7 +91,7 @@
   timezone: WEST
   amount: 0.59155
   currency: ETH
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "ETH Sell to Nuno"
 - date: 2017-09-28
@@ -159,7 +99,7 @@
   timezone: WEST
   amount: 0.000441
   currency: ETH
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-28
@@ -175,7 +115,7 @@
   timezone: WEST
   amount: 0.01551384
   currency: BTC
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "BTC sell to Lúcia"
 - date: 2017-09-21
@@ -183,7 +123,7 @@
   timezone: WEST
   amount: 0.00034126
   currency: BTC
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-21
@@ -192,30 +132,22 @@
   amount: 0.0158551
   currency: BTC
   from: World
-  to: Jaxx
+  to: Dio Alma
   reason: "Conversion of LTC to BTC using Jaxx Shapeshifter(fee-free exchange)"
 - date: 2017-09-21
   time: 01:51:00
   timezone: WEST
   amount: 0.00091175
   currency: BTC
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-28
   time: 15:06:00
   timezone: WEST
-  amount: 1.9
-  currency: BTC
-  from: Electrum
-  to: Jaxx
-  reason: "Transfer"
-- date: 2017-09-28
-  time: 15:06:00
-  timezone: WEST
   amount: 0.000512
   currency: BTC
-  from: Electrum
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-28
@@ -223,7 +155,7 @@
   timezone: WEST
   amount: 1
   currency: BTC
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "Sale to João friend"
 - date: 2017-09-28
@@ -231,7 +163,7 @@
   timezone: WEST
   amount: 0.00030736
   currency: BTC
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-28
@@ -247,7 +179,7 @@
   timezone: WEST
   amount: 1.25
   currency: LTC
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "Conversion of LTC to BTC using Jaxx Shapeshifter(fee-free exchange)"
 - date: 2017-09-21
@@ -255,23 +187,15 @@
   timezone: WEST
   amount: 0.0008
   currency: LTC
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-27
   time: 14:11:00
   timezone: WEST
-  amount: 2.7484
-  currency: LTC
-  from: Jaxx
-  to: CoopCoinBase
-  reason: "Transfer"
-- date: 2017-09-27
-  time: 14:11:00
-  timezone: WEST
   amount: 0.0008
   currency: LTC
-  from: Jaxx
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-27
@@ -279,7 +203,7 @@
   timezone: WEST
   amount: 2.7484
   currency: LTC
-  from: CoopCoinBase
+  from: Dio Alma
   to: World
   reason: "Conversion of LTC to EUR to test functionality."
 - date: 2017-09-27
@@ -288,14 +212,14 @@
   amount: 123.83
   currency: EUR
   from: World
-  to: CoopCoinBase
+  to: Dio Alma
   reason: "Conversion of LTC to EUR to test functionality."
 - date: 2017-09-24
   time: 21:50:20
   timezone: WEST
   amount: 0.422
   currency: ETH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Sale to Felix."
 - date: 2017-09-24
@@ -303,7 +227,7 @@
   timezone: WEST
   amount: 0.0006615
   currency: ETH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-24
@@ -312,7 +236,7 @@
   amount: 96.25
   currency: EUR
   from: World
-  to: CoopPayPall
+  to: Dio Alma
   reason: "Sale to Felix."
 - date: 2017-09-24
   time: 20:03:00
@@ -320,70 +244,38 @@
   amount: 3.75
   currency: EUR
   from: World
-  to: CoopPayPall
+  to: Dio Alma
   reason: "PayPall transfer fee."
 - date: 2017-10-03
   time: 15:30:00
   timezone: WEST
   amount: 682.70
   currency: EUR
-  from: CoopPayPall
+  from: Dio Alma
   to: World
   reason: "Purchase of three Doogee S60 from Chinavasion Wholesale Ltd.."
-- date: 2017-10-03
-  time: 15:29:00
-  timezone: WEST
-  amount: 682.70
-  currency: EUR
-  from: Dio Alma
-  to: CoopPayPall
-  reason: "Transfer"
-- date: 2017-10-03
-  time: 11:52:22
-  timezone: WEST
-  amount: 3.5
-  currency: BTC
-  from: Electrum
-  to: Bitfinex
-  reason: "Transfer"
 - date: 2017-10-03
   time: 11:52:22
   timezone: WEST
   amount: 0.000462
   currency: BTC
-  from: Electrum
+  from: Dio Alma
   to: World
   reason: "mining fee"
-- date: 2017-10-03
-  time: 17:02:00
-  timezone: WEST
-  amount: 1.85012587
-  currency: BCH
-  from: ElectronCash
-  to: Bitfinex
-  reason: "Transfer"
 - date: 2017-10-03
   time: 17:02:00
   timezone: WEST
   amount: 0.00019200
   currency: BCH
-  from: ElectronCash
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-10-03
   time: 14:23:04
   timezone: WEST
-  amount: 36.93830044
-  currency: BCH
-  from: Bitfinex
-  to: ElectronCash
-  reason: "Transfer"
-- date: 2017-10-03
-  time: 14:23:04
-  timezone: WEST
   amount: 0.00000991
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-10-03
@@ -391,7 +283,7 @@
   timezone: WEST
   amount: 35.08775657
   currency: BCH
-  from: ElectronCash
+  from: Dio Alma
   to: World
   reason: "Purchase of 10 Bitmain Antminer S9"
 - date: 2017-10-03
@@ -399,87 +291,47 @@
   timezone: WEST
   amount: 0.000226
   currency: BCH
-  from: ElectronCash
+  from: Dio Alma
   to: World
   reason: "mining fee"
-- date: 2017-10-05
-  time: 19:28:32
-  timezone: WEST
-  amount: 0.22051679
-  currency: BTC
-  from: Bitfinex
-  to: Electrum
-  reason: "Transfer"
 - date: 2017-10-05
   time: 19:28:32
   timezone: WEST
   amount: 0.00044402
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "mining fee"
-- date: 2017-09-27
-  time: 13:44:34
-  timezone: WEST
-  amount: 221.45857932
-  currency: ETH
-  from: Bitfinex
-  to: CoopMyEtherWallet
-  reason: "Transfer"
 - date: 2017-09-27
   time: 13:44:34
   timezone: WEST
   amount: 0.0006615
   currency: ETH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "mining fee"
-- date: 2017-09-27
-  time: 07:53:06
-  timezone: UTC
-  amount: 21
-  currency: ETH
-  from: CoopMyEtherWallet
-  to: Jaxx
-  reason: "Transfer"
 - date: 2017-09-27
   time: 07:53:06
   timezone: UTC
   amount: 0.000441
   currency: ETH
-  from: CoopMyEtherWallet
+  from: Dio Alma
   to: World
   reason: "mining fee"
-- date: 2017-09-25
-  time: 21:36:48
-  timezone: WEST
-  amount: 0.2616073
-  currency: BTC
-  from: Bitfinex
-  to: Cryptopia
-  reason: "Transfer"
 - date: 2017-09-25
   time: 21:36:48
   timezone: WEST
   amount: 0.00078610
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-10-05
   time: 22:14:00
   timezone: WEST
-  amount: 0.26216073
-  currency: BTC
-  from: Cryptopia
-  to: Electrum
-  reason: "transfer"
-- date: 2017-10-05
-  time: 22:14:00
-  timezone: WEST
   amount: 0.001
   currency: BTC
-  from: Cryptopia
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-09-18
@@ -487,7 +339,7 @@
   timezone: UTC
   amount: 8.3056
   currency: ETH
-  from: Bitfinex
+  from: Dio Alma
   to: Arne Slawik
   reason: "Transfer"
 - date: 2017-09-18
@@ -495,7 +347,7 @@
   timezone: UTC
   amount: 0.0010395
   currency: ETH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "mining fee"
 - date: 2017-10-03
@@ -1320,7 +1172,7 @@
   amount: 6.0
   currency: BCH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Donation from Spencer"
 - date: 2017-09-13
   time: 00:04:40
@@ -1328,7 +1180,7 @@
   amount: 560.56748367
   currency: BCH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Donation from Spencer"
 - date: 2017-09-18
   time: 10:39:00
@@ -1343,7 +1195,7 @@
   timezone: UTC
   amount: 0.39749424
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65570802"
 - date: 2017-09-13
@@ -1352,14 +1204,14 @@
   amount: 0.051281
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65570802"
 - date: 2017-09-13
   time: 08:13:33
   timezone: UTC
   amount: 0.0435
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65570803"
 - date: 2017-09-13
@@ -1368,14 +1220,14 @@
   amount: 0.005612
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65570803"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 4.94023849
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571234"
 - date: 2017-09-13
@@ -1384,14 +1236,14 @@
   amount: 0.63571
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571234"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 8.0
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571235"
 - date: 2017-09-13
@@ -1400,14 +1252,14 @@
   amount: 1.02864
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571235"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 1.85403304
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571236"
 - date: 2017-09-13
@@ -1416,14 +1268,14 @@
   amount: 0.238392
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571236"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 1.83757253
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571237"
 - date: 2017-09-13
@@ -1432,14 +1284,14 @@
   amount: 0.236275
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571237"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 1.73102725
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571238"
 - date: 2017-09-13
@@ -1448,14 +1300,14 @@
   amount: 0.222575
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571238"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 1.72035629
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571239"
 - date: 2017-09-13
@@ -1464,14 +1316,14 @@
   amount: 0.221203
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571239"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 1.6885035
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571240"
 - date: 2017-09-13
@@ -1480,14 +1332,14 @@
   amount: 0.217108
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571240"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 77.76743939
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571241"
 - date: 2017-09-13
@@ -1496,14 +1348,14 @@
   amount: 9.99856
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571241"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 28.2
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571242"
 - date: 2017-09-13
@@ -1512,14 +1364,14 @@
   amount: 3.61242
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571242"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 12.65067252
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571243"
 - date: 2017-09-13
@@ -1528,14 +1380,14 @@
   amount: 1.620425
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571243"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 0.025
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571244"
 - date: 2017-09-13
@@ -1544,14 +1396,14 @@
   amount: 0.003201
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571244"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 90.97372432
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571245"
 - date: 2017-09-13
@@ -1560,14 +1412,14 @@
   amount: 11.645546
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571245"
 - date: 2017-09-13
   time: 08:14:59
   timezone: UTC
   amount: 12.65067252
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571246"
 - date: 2017-09-13
@@ -1576,14 +1428,14 @@
   amount: 1.619286
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571246"
 - date: 2017-09-13
   time: 08:15:01
   timezone: UTC
   amount: 1.915156
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571255"
 - date: 2017-09-13
@@ -1592,14 +1444,14 @@
   amount: 0.24514
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571255"
 - date: 2017-09-13
   time: 08:15:03
   timezone: UTC
   amount: 3.073071
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571292"
 - date: 2017-09-13
@@ -1608,14 +1460,14 @@
   amount: 0.393353
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571292"
 - date: 2017-09-13
   time: 08:15:14
   timezone: UTC
   amount: 0.00201562
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571349"
 - date: 2017-09-13
@@ -1624,14 +1476,14 @@
   amount: 0.0002579994
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571349"
 - date: 2017-09-13
   time: 08:15:17
   timezone: UTC
   amount: 1.73152343
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571370"
 - date: 2017-09-13
@@ -1640,14 +1492,14 @@
   amount: 0.221635
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571370"
 - date: 2017-09-13
   time: 08:15:17
   timezone: UTC
   amount: 2.21693251
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571376"
 - date: 2017-09-13
@@ -1656,14 +1508,14 @@
   amount: 0.283767
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571376"
 - date: 2017-09-13
   time: 08:15:19
   timezone: UTC
   amount: 0.02558875
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571384"
 - date: 2017-09-13
@@ -1672,14 +1524,14 @@
   amount: 0.003275
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571384"
 - date: 2017-09-13
   time: 08:15:25
   timezone: UTC
   amount: 27.27
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571394"
 - date: 2017-09-13
@@ -1688,14 +1540,14 @@
   amount: 3.49056
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571394"
 - date: 2017-09-13
   time: 08:15:26
   timezone: UTC
   amount: 7.825359
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571403"
 - date: 2017-09-13
@@ -1704,14 +1556,14 @@
   amount: 1.001646
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571403"
 - date: 2017-09-13
   time: 08:15:27
   timezone: UTC
   amount: 0.019536
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571414"
 - date: 2017-09-13
@@ -1720,14 +1572,14 @@
   amount: 0.002501
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571414"
 - date: 2017-09-13
   time: 08:15:27
   timezone: UTC
   amount: 1.52954687
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571421"
 - date: 2017-09-13
@@ -1736,14 +1588,14 @@
   amount: 0.195782
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571421"
 - date: 2017-09-13
   time: 08:15:43
   timezone: UTC
   amount: 0.38651562
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571494"
 - date: 2017-09-13
@@ -1752,14 +1604,14 @@
   amount: 0.049474
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571494"
 - date: 2017-09-13
   time: 08:15:44
   timezone: UTC
   amount: 2.55397656
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571496"
 - date: 2017-09-13
@@ -1768,14 +1620,14 @@
   amount: 0.326909
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571496"
 - date: 2017-09-13
   time: 08:15:47
   timezone: UTC
   amount: 2.7
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571501"
 - date: 2017-09-13
@@ -1784,14 +1636,14 @@
   amount: 0.3456
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571501"
 - date: 2017-09-13
   time: 08:16:02
   timezone: UTC
   amount: 0.145875
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571575"
 - date: 2017-09-13
@@ -1800,14 +1652,14 @@
   amount: 0.018672
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571575"
 - date: 2017-09-13
   time: 08:16:45
   timezone: UTC
   amount: 0.33625
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571740"
 - date: 2017-09-13
@@ -1816,14 +1668,14 @@
   amount: 0.04304
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571740"
 - date: 2017-09-13
   time: 08:16:46
   timezone: UTC
   amount: 1.47375781
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571743"
 - date: 2017-09-13
@@ -1832,14 +1684,14 @@
   amount: 0.188641
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571743"
 - date: 2017-09-13
   time: 08:17:13
   timezone: UTC
   amount: 4.457795
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571869"
 - date: 2017-09-13
@@ -1848,14 +1700,14 @@
   amount: 0.570598
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571869"
 - date: 2017-09-13
   time: 08:17:15
   timezone: UTC
   amount: 0.00592968
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65571884"
 - date: 2017-09-13
@@ -1864,14 +1716,14 @@
   amount: 0.000758999
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65571884"
 - date: 2017-09-13
   time: 08:17:50
   timezone: UTC
   amount: 1.862654
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572000"
 - date: 2017-09-13
@@ -1880,14 +1732,14 @@
   amount: 0.23842
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572000"
 - date: 2017-09-13
   time: 08:17:53
   timezone: UTC
   amount: 0.52516649
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572019"
 - date: 2017-09-13
@@ -1896,14 +1748,14 @@
   amount: 0.067221
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572019"
 - date: 2017-09-13
   time: 08:17:53
   timezone: UTC
   amount: 1.17451565
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572020"
 - date: 2017-09-13
@@ -1912,14 +1764,14 @@
   amount: 0.150338
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572020"
 - date: 2017-09-13
   time: 08:17:53
   timezone: UTC
   amount: 1.81001202
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572021"
 - date: 2017-09-13
@@ -1928,14 +1780,14 @@
   amount: 0.231682
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572021"
 - date: 2017-09-13
   time: 08:18:13
   timezone: UTC
   amount: 0.7
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572149"
 - date: 2017-09-13
@@ -1944,14 +1796,14 @@
   amount: 0.0896
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572149"
 - date: 2017-09-13
   time: 08:18:37
   timezone: UTC
   amount: 4.199977
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572249"
 - date: 2017-09-13
@@ -1960,14 +1812,14 @@
   amount: 0.537597
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572249"
 - date: 2017-09-13
   time: 08:18:51
   timezone: UTC
   amount: 5.38580468
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572290"
 - date: 2017-09-13
@@ -1976,14 +1828,14 @@
   amount: 0.689383
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572290"
 - date: 2017-09-13
   time: 08:18:51
   timezone: UTC
   amount: 0.77187902
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572293"
 - date: 2017-09-13
@@ -1992,14 +1844,14 @@
   amount: 0.098801
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572293"
 - date: 2017-09-13
   time: 08:19:03
   timezone: UTC
   amount: 5.38778079
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572325"
 - date: 2017-09-13
@@ -2008,14 +1860,14 @@
   amount: 0.689636
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572325"
 - date: 2017-09-13
   time: 08:19:08
   timezone: UTC
   amount: 2.69529687
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572347"
 - date: 2017-09-13
@@ -2024,14 +1876,14 @@
   amount: 0.344998
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572347"
 - date: 2017-09-13
   time: 08:19:13
   timezone: UTC
   amount: 27.63
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572369"
 - date: 2017-09-13
@@ -2040,14 +1892,14 @@
   amount: 3.53664
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572369"
 - date: 2017-09-13
   time: 08:19:14
   timezone: UTC
   amount: 3.26996875
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572373"
 - date: 2017-09-13
@@ -2056,14 +1908,14 @@
   amount: 0.418556
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572373"
 - date: 2017-09-13
   time: 08:19:15
   timezone: UTC
   amount: 0.00320312
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572377"
 - date: 2017-09-13
@@ -2072,14 +1924,14 @@
   amount: 0.0004099994
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572377"
 - date: 2017-09-13
   time: 08:20:01
   timezone: UTC
   amount: 10.098
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572570"
 - date: 2017-09-13
@@ -2088,14 +1940,14 @@
   amount: 1.292544
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572570"
 - date: 2017-09-13
   time: 08:20:18
   timezone: UTC
   amount: 27.57
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572647"
 - date: 2017-09-13
@@ -2104,14 +1956,14 @@
   amount: 3.52896
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572647"
 - date: 2017-09-13
   time: 08:20:23
   timezone: UTC
   amount: 10.940264
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572679"
 - date: 2017-09-13
@@ -2120,14 +1972,14 @@
   amount: 1.400354
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572679"
 - date: 2017-09-13
   time: 08:20:29
   timezone: UTC
   amount: 28.41
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572692"
 - date: 2017-09-13
@@ -2136,14 +1988,14 @@
   amount: 3.63648
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572692"
 - date: 2017-09-13
   time: 08:20:56
   timezone: UTC
   amount: 0.96342968
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572812"
 - date: 2017-09-13
@@ -2152,14 +2004,14 @@
   amount: 0.123319
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572812"
 - date: 2017-09-13
   time: 08:20:59
   timezone: UTC
   amount: 0.24661718
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572834"
 - date: 2017-09-13
@@ -2168,14 +2020,14 @@
   amount: 0.031567
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572834"
 - date: 2017-09-13
   time: 08:20:59
   timezone: UTC
   amount: 0.01734375
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572836"
 - date: 2017-09-13
@@ -2184,14 +2036,14 @@
   amount: 0.00222
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572836"
 - date: 2017-09-13
   time: 08:21:13
   timezone: UTC
   amount: 0.26391592
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572895"
 - date: 2017-09-13
@@ -2200,14 +2052,14 @@
   amount: 0.033781
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572895"
 - date: 2017-09-13
   time: 08:21:16
   timezone: UTC
   amount: 0.27738281
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572905"
 - date: 2017-09-13
@@ -2216,14 +2068,14 @@
   amount: 0.035505
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572905"
 - date: 2017-09-13
   time: 08:21:20
   timezone: UTC
   amount: 18.64245178
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572921"
 - date: 2017-09-13
@@ -2232,14 +2084,14 @@
   amount: 2.386234
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572921"
 - date: 2017-09-13
   time: 08:21:27
   timezone: UTC
   amount: 25.5
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572938"
 - date: 2017-09-13
@@ -2248,14 +2100,14 @@
   amount: 3.264
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572938"
 - date: 2017-09-13
   time: 08:21:29
   timezone: UTC
   amount: 2.16
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65572947"
 - date: 2017-09-13
@@ -2264,14 +2116,14 @@
   amount: 0.27648
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65572947"
 - date: 2017-09-13
   time: 08:21:50
   timezone: UTC
   amount: 0.78042634
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573004"
 - date: 2017-09-13
@@ -2280,14 +2132,14 @@
   amount: 0.099895
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573004"
 - date: 2017-09-13
   time: 08:21:50
   timezone: UTC
   amount: 0.0505
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573005"
 - date: 2017-09-13
@@ -2296,14 +2148,14 @@
   amount: 0.006464
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573005"
 - date: 2017-09-13
   time: 08:21:50
   timezone: UTC
   amount: 0.62003404
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573007"
 - date: 2017-09-13
@@ -2312,14 +2164,14 @@
   amount: 0.079364
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573007"
 - date: 2017-09-13
   time: 08:21:50
   timezone: UTC
   amount: 0.42431734
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573008"
 - date: 2017-09-13
@@ -2328,14 +2180,14 @@
   amount: 0.054313
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573008"
 - date: 2017-09-13
   time: 08:21:52
   timezone: UTC
   amount: 31.348521
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573016"
 - date: 2017-09-13
@@ -2344,14 +2196,14 @@
   amount: 4.012611
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573016"
 - date: 2017-09-13
   time: 08:21:52
   timezone: UTC
   amount: 4.82870203
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573017"
 - date: 2017-09-13
@@ -2360,14 +2212,14 @@
   amount: 0.618074
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573017"
 - date: 2017-09-13
   time: 08:21:53
   timezone: UTC
   amount: 3.183238
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573020"
 - date: 2017-09-13
@@ -2376,14 +2228,14 @@
   amount: 0.407454
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573020"
 - date: 2017-09-13
   time: 08:21:57
   timezone: UTC
   amount: 0.00119531
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573052"
 - date: 2017-09-13
@@ -2392,14 +2244,14 @@
   amount: 0.0001529997
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573052"
 - date: 2017-09-13
   time: 08:22:55
   timezone: UTC
   amount: 10.0
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573310"
 - date: 2017-09-13
@@ -2408,14 +2260,14 @@
   amount: 1.28
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573310"
 - date: 2017-09-13
   time: 08:22:56
   timezone: UTC
   amount: 31.018692
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573316"
 - date: 2017-09-13
@@ -2424,14 +2276,14 @@
   amount: 3.970393
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573316"
 - date: 2017-09-13
   time: 08:23:13
   timezone: UTC
   amount: 0.46229687
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573375"
 - date: 2017-09-13
@@ -2440,14 +2292,14 @@
   amount: 0.059174
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573375"
 - date: 2017-09-13
   time: 08:24:54
   timezone: UTC
   amount: 1.19395186
   currency: BCH
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65573887"
 - date: 2017-09-13
@@ -2456,7 +2308,7 @@
   amount: 0.152826
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65573887"
 - date: 2017-09-14
   time: 10:38:41
@@ -2464,14 +2316,14 @@
   amount: 0.02
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66008136"
 - date: 2017-09-14
   time: 10:38:41
   timezone: UTC
   amount: 0.001407
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66008136"
 - date: 2017-09-14
@@ -2480,14 +2332,14 @@
   amount: 0.10600501
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66008137"
 - date: 2017-09-14
   time: 10:38:41
   timezone: UTC
   amount: 0.007463
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66008137"
 - date: 2017-09-14
@@ -2496,14 +2348,14 @@
   amount: 21.7629
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66008138"
 - date: 2017-09-14
   time: 10:38:41
   timezone: UTC
   amount: 1.532239
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66008138"
 - date: 2017-09-14
@@ -2512,14 +2364,14 @@
   amount: 0.02
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66008139"
 - date: 2017-09-14
   time: 10:38:41
   timezone: UTC
   amount: 0.001409
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66008139"
 - date: 2017-09-14
@@ -2528,14 +2380,14 @@
   amount: 1.98030016
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66008140"
 - date: 2017-09-14
   time: 10:38:41
   timezone: UTC
   amount: 0.139583
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66008140"
 - date: 2017-09-14
@@ -2544,14 +2396,14 @@
   amount: 56.11079483
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66008141"
 - date: 2017-09-14
   time: 10:38:41
   timezone: UTC
   amount: 3.955082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66008141"
 - date: 2017-09-14
@@ -2560,14 +2412,14 @@
   amount: 1.07
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66040873"
 - date: 2017-09-14
   time: 11:26:28
   timezone: UTC
   amount: 0.074686
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66040873"
 - date: 2017-09-14
@@ -2576,14 +2428,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66040892"
 - date: 2017-09-14
   time: 11:26:29
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66040892"
 - date: 2017-09-14
@@ -2592,14 +2444,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66040912"
 - date: 2017-09-14
   time: 11:26:30
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66040912"
 - date: 2017-09-14
@@ -2608,14 +2460,14 @@
   amount: 0.98397367
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041040"
 - date: 2017-09-14
   time: 11:26:38
   timezone: UTC
   amount: 0.068681
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041040"
 - date: 2017-09-14
@@ -2624,14 +2476,14 @@
   amount: 1.07
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041041"
 - date: 2017-09-14
   time: 11:26:38
   timezone: UTC
   amount: 0.074686
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041041"
 - date: 2017-09-14
@@ -2640,14 +2492,14 @@
   amount: 0.035832
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041043"
 - date: 2017-09-14
   time: 11:26:39
   timezone: UTC
   amount: 0.002501
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041043"
 - date: 2017-09-14
@@ -2656,14 +2508,14 @@
   amount: 0.63423823
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041061"
 - date: 2017-09-14
   time: 11:26:40
   timezone: UTC
   amount: 0.04427
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041061"
 - date: 2017-09-14
@@ -2672,14 +2524,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041067"
 - date: 2017-09-14
   time: 11:26:40
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041067"
 - date: 2017-09-14
@@ -2688,14 +2540,14 @@
   amount: 0.035827
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041081"
 - date: 2017-09-14
   time: 11:26:41
   timezone: UTC
   amount: 0.002501
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041081"
 - date: 2017-09-14
@@ -2704,14 +2556,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041101"
 - date: 2017-09-14
   time: 11:26:43
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041101"
 - date: 2017-09-14
@@ -2720,14 +2572,14 @@
   amount: 2.0979
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041102"
 - date: 2017-09-14
   time: 11:26:43
   timezone: UTC
   amount: 0.146433
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041102"
 - date: 2017-09-14
@@ -2736,14 +2588,14 @@
   amount: 1.07
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041107"
 - date: 2017-09-14
   time: 11:26:43
   timezone: UTC
   amount: 0.074686
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041107"
 - date: 2017-09-14
@@ -2752,14 +2604,14 @@
   amount: 10.0
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041296"
 - date: 2017-09-14
   time: 11:26:56
   timezone: UTC
   amount: 0.698
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041296"
 - date: 2017-09-14
@@ -2768,14 +2620,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041323"
 - date: 2017-09-14
   time: 11:26:58
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041323"
 - date: 2017-09-14
@@ -2784,14 +2636,14 @@
   amount: 1.07
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041350"
 - date: 2017-09-14
   time: 11:26:59
   timezone: UTC
   amount: 0.074686
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041350"
 - date: 2017-09-14
@@ -2800,14 +2652,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041366"
 - date: 2017-09-14
   time: 11:27:01
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041366"
 - date: 2017-09-14
@@ -2816,14 +2668,14 @@
   amount: 0.278787
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041514"
 - date: 2017-09-14
   time: 11:27:11
   timezone: UTC
   amount: 0.019459
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041514"
 - date: 2017-09-14
@@ -2832,14 +2684,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66041543"
 - date: 2017-09-14
   time: 11:27:13
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66041543"
 - date: 2017-09-14
@@ -2848,14 +2700,14 @@
   amount: 0.26678292
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66042312"
 - date: 2017-09-14
   time: 11:28:01
   timezone: UTC
   amount: 0.018621
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66042312"
 - date: 2017-09-14
@@ -2864,14 +2716,14 @@
   amount: 0.16586339
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66042314"
 - date: 2017-09-14
   time: 11:28:01
   timezone: UTC
   amount: 0.011577
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66042314"
 - date: 2017-09-14
@@ -2880,14 +2732,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66042337"
 - date: 2017-09-14
   time: 11:28:03
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66042337"
 - date: 2017-09-14
@@ -2896,14 +2748,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66042350"
 - date: 2017-09-14
   time: 11:28:05
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66042350"
 - date: 2017-09-14
@@ -2912,14 +2764,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66042372"
 - date: 2017-09-14
   time: 11:28:07
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66042372"
 - date: 2017-09-14
@@ -2928,14 +2780,14 @@
   amount: 0.01233633
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66042373"
 - date: 2017-09-14
   time: 11:28:07
   timezone: UTC
   amount: 0.0008610758
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66042373"
 - date: 2017-09-14
@@ -2944,14 +2796,14 @@
   amount: 1.38816273
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66042374"
 - date: 2017-09-14
   time: 11:28:07
   timezone: UTC
   amount: 0.096894
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66042374"
 - date: 2017-09-14
@@ -2960,14 +2812,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66042381"
 - date: 2017-09-14
   time: 11:28:08
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66042381"
 - date: 2017-09-14
@@ -2976,14 +2828,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043197"
 - date: 2017-09-14
   time: 11:28:53
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043197"
 - date: 2017-09-14
@@ -2992,14 +2844,14 @@
   amount: 26.48482035
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043301"
 - date: 2017-09-14
   time: 11:29:00
   timezone: UTC
   amount: 1.84864
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043301"
 - date: 2017-09-14
@@ -3008,14 +2860,14 @@
   amount: 0.63879158
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043379"
 - date: 2017-09-14
   time: 11:29:07
   timezone: UTC
   amount: 0.044588
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043379"
 - date: 2017-09-14
@@ -3024,14 +2876,14 @@
   amount: 2.98078651
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043380"
 - date: 2017-09-14
   time: 11:29:07
   timezone: UTC
   amount: 0.208059
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043380"
 - date: 2017-09-14
@@ -3040,14 +2892,14 @@
   amount: 0.79697315
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043386"
 - date: 2017-09-14
   time: 11:29:08
   timezone: UTC
   amount: 0.055629
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043386"
 - date: 2017-09-14
@@ -3056,14 +2908,14 @@
   amount: 1.08
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043389"
 - date: 2017-09-14
   time: 11:29:08
   timezone: UTC
   amount: 0.075384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043389"
 - date: 2017-09-14
@@ -3072,14 +2924,14 @@
   amount: 25.71860305
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043390"
 - date: 2017-09-14
   time: 11:29:08
   timezone: UTC
   amount: 1.795158
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043390"
 - date: 2017-09-14
@@ -3088,14 +2940,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043419"
 - date: 2017-09-14
   time: 11:29:09
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043419"
 - date: 2017-09-14
@@ -3104,14 +2956,14 @@
   amount: 1.78759906
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043420"
 - date: 2017-09-14
   time: 11:29:09
   timezone: UTC
   amount: 0.124774
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043420"
 - date: 2017-09-14
@@ -3120,14 +2972,14 @@
   amount: 5.19136207
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043421"
 - date: 2017-09-14
   time: 11:29:09
   timezone: UTC
   amount: 0.362357
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043421"
 - date: 2017-09-14
@@ -3136,14 +2988,14 @@
   amount: 3.36633986
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043427"
 - date: 2017-09-14
   time: 11:29:09
   timezone: UTC
   amount: 0.234971
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043427"
 - date: 2017-09-14
@@ -3152,14 +3004,14 @@
   amount: 1.02440433
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043448"
 - date: 2017-09-14
   time: 11:29:10
   timezone: UTC
   amount: 0.071503
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043448"
 - date: 2017-09-14
@@ -3168,14 +3020,14 @@
   amount: 0.92262023
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043476"
 - date: 2017-09-14
   time: 11:29:12
   timezone: UTC
   amount: 0.064399
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043476"
 - date: 2017-09-14
@@ -3184,14 +3036,14 @@
   amount: 0.21475573
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043479"
 - date: 2017-09-14
   time: 11:29:12
   timezone: UTC
   amount: 0.01499
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043479"
 - date: 2017-09-14
@@ -3200,14 +3052,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043486"
 - date: 2017-09-14
   time: 11:29:12
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043486"
 - date: 2017-09-14
@@ -3216,14 +3068,14 @@
   amount: 2.98078651
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043488"
 - date: 2017-09-14
   time: 11:29:12
   timezone: UTC
   amount: 0.208059
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043488"
 - date: 2017-09-14
@@ -3232,14 +3084,14 @@
   amount: 0.79697315
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043489"
 - date: 2017-09-14
   time: 11:29:12
   timezone: UTC
   amount: 0.055629
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043489"
 - date: 2017-09-14
@@ -3248,14 +3100,14 @@
   amount: 9.39384235
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043490"
 - date: 2017-09-14
   time: 11:29:12
   timezone: UTC
   amount: 0.65569
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043490"
 - date: 2017-09-14
@@ -3264,14 +3116,14 @@
   amount: 2.08521654
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043492"
 - date: 2017-09-14
   time: 11:29:13
   timezone: UTC
   amount: 0.145548
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043492"
 - date: 2017-09-14
@@ -3280,14 +3132,14 @@
   amount: 10.26095335
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043493"
 - date: 2017-09-14
   time: 11:29:13
   timezone: UTC
   amount: 0.716215
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043493"
 - date: 2017-09-14
@@ -3296,14 +3148,14 @@
   amount: 8.06980631
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043494"
 - date: 2017-09-14
   time: 11:29:13
   timezone: UTC
   amount: 0.563272
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043494"
 - date: 2017-09-14
@@ -3312,14 +3164,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043509"
 - date: 2017-09-14
   time: 11:29:13
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043509"
 - date: 2017-09-14
@@ -3328,14 +3180,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043523"
 - date: 2017-09-14
   time: 11:29:14
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043523"
 - date: 2017-09-14
@@ -3344,14 +3196,14 @@
   amount: 0.37754188
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043527"
 - date: 2017-09-14
   time: 11:29:15
   timezone: UTC
   amount: 0.026352
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043527"
 - date: 2017-09-14
@@ -3360,14 +3212,14 @@
   amount: 3.4844682
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043550"
 - date: 2017-09-14
   time: 11:29:15
   timezone: UTC
   amount: 0.243216
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043550"
 - date: 2017-09-14
@@ -3376,14 +3228,14 @@
   amount: 3.52311954
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043563"
 - date: 2017-09-14
   time: 11:29:16
   timezone: UTC
   amount: 0.245914
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043563"
 - date: 2017-09-14
@@ -3392,14 +3244,14 @@
   amount: 1.68899788
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043578"
 - date: 2017-09-14
   time: 11:29:17
   timezone: UTC
   amount: 0.117892
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043578"
 - date: 2017-09-14
@@ -3408,14 +3260,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043586"
 - date: 2017-09-14
   time: 11:29:17
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043586"
 - date: 2017-09-14
@@ -3424,14 +3276,14 @@
   amount: 6.81347669
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043596"
 - date: 2017-09-14
   time: 11:29:18
   timezone: UTC
   amount: 0.475581
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043596"
 - date: 2017-09-14
@@ -3440,14 +3292,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043599"
 - date: 2017-09-14
   time: 11:29:18
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043599"
 - date: 2017-09-14
@@ -3456,14 +3308,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043645"
 - date: 2017-09-14
   time: 11:29:22
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043645"
 - date: 2017-09-14
@@ -3472,14 +3324,14 @@
   amount: 0.72
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043670"
 - date: 2017-09-14
   time: 11:29:23
   timezone: UTC
   amount: 0.050256
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043670"
 - date: 2017-09-14
@@ -3488,14 +3340,14 @@
   amount: 1.1
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043674"
 - date: 2017-09-14
   time: 11:29:23
   timezone: UTC
   amount: 0.07678
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043674"
 - date: 2017-09-14
@@ -3504,14 +3356,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043677"
 - date: 2017-09-14
   time: 11:29:23
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043677"
 - date: 2017-09-14
@@ -3520,14 +3372,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043701"
 - date: 2017-09-14
   time: 11:29:25
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043701"
 - date: 2017-09-14
@@ -3536,14 +3388,14 @@
   amount: 4.05017851
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043711"
 - date: 2017-09-14
   time: 11:29:26
   timezone: UTC
   amount: 0.282702
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043711"
 - date: 2017-09-14
@@ -3552,14 +3404,14 @@
   amount: 1.1
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043714"
 - date: 2017-09-14
   time: 11:29:26
   timezone: UTC
   amount: 0.07678
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043714"
 - date: 2017-09-14
@@ -3568,14 +3420,14 @@
   amount: 2.0845626
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043715"
 - date: 2017-09-14
   time: 11:29:26
   timezone: UTC
   amount: 0.145502
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043715"
 - date: 2017-09-14
@@ -3584,14 +3436,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043739"
 - date: 2017-09-14
   time: 11:29:28
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043739"
 - date: 2017-09-14
@@ -3600,14 +3452,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043760"
 - date: 2017-09-14
   time: 11:29:29
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043760"
 - date: 2017-09-14
@@ -3616,14 +3468,14 @@
   amount: 1.1
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043782"
 - date: 2017-09-14
   time: 11:29:31
   timezone: UTC
   amount: 0.07678
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043782"
 - date: 2017-09-14
@@ -3632,14 +3484,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043805"
 - date: 2017-09-14
   time: 11:29:38
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043805"
 - date: 2017-09-14
@@ -3648,14 +3500,14 @@
   amount: 1.35037617
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043812"
 - date: 2017-09-14
   time: 11:29:38
   timezone: UTC
   amount: 0.094256
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043812"
 - date: 2017-09-14
@@ -3664,14 +3516,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043844"
 - date: 2017-09-14
   time: 11:29:39
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043844"
 - date: 2017-09-14
@@ -3680,14 +3532,14 @@
   amount: 1.1
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043855"
 - date: 2017-09-14
   time: 11:29:39
   timezone: UTC
   amount: 0.07678
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043855"
 - date: 2017-09-14
@@ -3696,14 +3548,14 @@
   amount: 0.01134812
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043870"
 - date: 2017-09-14
   time: 11:29:40
   timezone: UTC
   amount: 0.0007920988
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043870"
 - date: 2017-09-14
@@ -3712,14 +3564,14 @@
   amount: 10.0
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043920"
 - date: 2017-09-14
   time: 11:29:41
   timezone: UTC
   amount: 0.698
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043920"
 - date: 2017-09-14
@@ -3728,14 +3580,14 @@
   amount: 0.94138722
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043927"
 - date: 2017-09-14
   time: 11:29:42
   timezone: UTC
   amount: 0.065709
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043927"
 - date: 2017-09-14
@@ -3744,14 +3596,14 @@
   amount: 0.035789
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043941"
 - date: 2017-09-14
   time: 11:29:42
   timezone: UTC
   amount: 0.002498
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043941"
 - date: 2017-09-14
@@ -3760,14 +3612,14 @@
   amount: 6.88609
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043958"
 - date: 2017-09-14
   time: 11:29:42
   timezone: UTC
   amount: 0.480649
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043958"
 - date: 2017-09-14
@@ -3776,14 +3628,14 @@
   amount: 0.396654
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043959"
 - date: 2017-09-14
   time: 11:29:42
   timezone: UTC
   amount: 0.027686
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043959"
 - date: 2017-09-14
@@ -3792,14 +3644,14 @@
   amount: 1.09
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043978"
 - date: 2017-09-14
   time: 11:29:43
   timezone: UTC
   amount: 0.076082
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043978"
 - date: 2017-09-14
@@ -3808,14 +3660,14 @@
   amount: 1.03167279
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66043994"
 - date: 2017-09-14
   time: 11:29:44
   timezone: UTC
   amount: 0.072011
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66043994"
 - date: 2017-09-14
@@ -3824,14 +3676,14 @@
   amount: 10.0
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66062960"
 - date: 2017-09-14
   time: 11:48:36
   timezone: UTC
   amount: 0.694
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66062960"
 - date: 2017-09-14
@@ -3840,14 +3692,14 @@
   amount: 0.02646928
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063047"
 - date: 2017-09-14
   time: 11:48:39
   timezone: UTC
   amount: 0.001837
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063047"
 - date: 2017-09-14
@@ -3856,14 +3708,14 @@
   amount: 1.2
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063051"
 - date: 2017-09-14
   time: 11:48:39
   timezone: UTC
   amount: 0.08328
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063051"
 - date: 2017-09-14
@@ -3872,14 +3724,14 @@
   amount: 1.00199046
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063278"
 - date: 2017-09-14
   time: 11:48:46
   timezone: UTC
   amount: 0.069538
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063278"
 - date: 2017-09-14
@@ -3888,14 +3740,14 @@
   amount: 1.19
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063290"
 - date: 2017-09-14
   time: 11:48:46
   timezone: UTC
   amount: 0.082586
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063290"
 - date: 2017-09-14
@@ -3904,14 +3756,14 @@
   amount: 1.06448179
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063292"
 - date: 2017-09-14
   time: 11:48:47
   timezone: UTC
   amount: 0.073875
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063292"
 - date: 2017-09-14
@@ -3920,14 +3772,14 @@
   amount: 0.20689454
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063297"
 - date: 2017-09-14
   time: 11:48:47
   timezone: UTC
   amount: 0.014358
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063297"
 - date: 2017-09-14
@@ -3936,14 +3788,14 @@
   amount: 7.04652313
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063420"
 - date: 2017-09-14
   time: 11:48:54
   timezone: UTC
   amount: 0.489029
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063420"
 - date: 2017-09-14
@@ -3952,14 +3804,14 @@
   amount: 6.55366756
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063487"
 - date: 2017-09-14
   time: 11:48:56
   timezone: UTC
   amount: 0.454825
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063487"
 - date: 2017-09-14
@@ -3968,14 +3820,14 @@
   amount: 1.19
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063495"
 - date: 2017-09-14
   time: 11:48:57
   timezone: UTC
   amount: 0.082586
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063495"
 - date: 2017-09-14
@@ -3984,14 +3836,14 @@
   amount: 1.2
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063506"
 - date: 2017-09-14
   time: 11:48:58
   timezone: UTC
   amount: 0.08328
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063506"
 - date: 2017-09-14
@@ -4000,14 +3852,14 @@
   amount: 3.77818787
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063533"
 - date: 2017-09-14
   time: 11:48:59
   timezone: UTC
   amount: 0.262206
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063533"
 - date: 2017-09-14
@@ -4016,14 +3868,14 @@
   amount: 1.21
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063594"
 - date: 2017-09-14
   time: 11:49:02
   timezone: UTC
   amount: 0.083974
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063594"
 - date: 2017-09-14
@@ -4032,14 +3884,14 @@
   amount: 1.19
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063710"
 - date: 2017-09-14
   time: 11:49:07
   timezone: UTC
   amount: 0.082586
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063710"
 - date: 2017-09-14
@@ -4048,14 +3900,14 @@
   amount: 1.21
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063733"
 - date: 2017-09-14
   time: 11:49:09
   timezone: UTC
   amount: 0.083974
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063733"
 - date: 2017-09-14
@@ -4064,14 +3916,14 @@
   amount: 0.30871737
   currency: ETH
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66063763"
 - date: 2017-09-14
   time: 11:49:11
   timezone: UTC
   amount: 0.021425
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66063763"
 - date: 2017-09-13
@@ -4080,14 +3932,14 @@
   amount: 19.2
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65654971"
 - date: 2017-09-13
   time: 12:16:47
   timezone: UTC
   amount: 0.2952
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65654971"
 - date: 2017-09-13
@@ -4096,14 +3948,14 @@
   amount: 104.330318
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655106"
 - date: 2017-09-13
   time: 12:17:04
   timezone: UTC
   amount: 1.604392
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655106"
 - date: 2017-09-13
@@ -4112,14 +3964,14 @@
   amount: 1.759828
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655139"
 - date: 2017-09-13
   time: 12:17:09
   timezone: UTC
   amount: 0.027063
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655139"
 - date: 2017-09-13
@@ -4128,14 +3980,14 @@
   amount: 57.555455
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655143"
 - date: 2017-09-13
   time: 12:17:10
   timezone: UTC
   amount: 0.885088
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655143"
 - date: 2017-09-13
@@ -4144,14 +3996,14 @@
   amount: 23.448633
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655163"
 - date: 2017-09-13
   time: 12:17:13
   timezone: UTC
   amount: 0.360593
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655163"
 - date: 2017-09-13
@@ -4160,14 +4012,14 @@
   amount: 29.959362
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655179"
 - date: 2017-09-13
   time: 12:17:15
   timezone: UTC
   amount: 0.460715
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655179"
 - date: 2017-09-13
@@ -4176,14 +4028,14 @@
   amount: 0.2
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655199"
 - date: 2017-09-13
   time: 12:17:17
   timezone: UTC
   amount: 0.003076
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655199"
 - date: 2017-09-13
@@ -4192,14 +4044,14 @@
   amount: 0.155
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655208"
 - date: 2017-09-13
   time: 12:17:18
   timezone: UTC
   amount: 0.002384
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655208"
 - date: 2017-09-13
@@ -4208,14 +4060,14 @@
   amount: 0.182458
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655280"
 - date: 2017-09-13
   time: 12:17:28
   timezone: UTC
   amount: 0.002806
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655280"
 - date: 2017-09-13
@@ -4224,14 +4076,14 @@
   amount: 153.896367
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655282"
 - date: 2017-09-13
   time: 12:17:28
   timezone: UTC
   amount: 2.366618
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655282"
 - date: 2017-09-13
@@ -4240,14 +4092,14 @@
   amount: 47.387751
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655375"
 - date: 2017-09-13
   time: 12:17:44
   timezone: UTC
   amount: 0.728729
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655375"
 - date: 2017-09-13
@@ -4256,14 +4108,14 @@
   amount: 19.577566
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655483"
 - date: 2017-09-13
   time: 12:18:02
   timezone: UTC
   amount: 0.301064
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655483"
 - date: 2017-09-13
@@ -4272,14 +4124,14 @@
   amount: 18.55423
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655516"
 - date: 2017-09-13
   time: 12:18:09
   timezone: UTC
   amount: 0.285327
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655516"
 - date: 2017-09-13
@@ -4288,14 +4140,14 @@
   amount: 177.7
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655566"
 - date: 2017-09-13
   time: 12:18:13
   timezone: UTC
   amount: 2.732671
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655566"
 - date: 2017-09-13
@@ -4304,14 +4156,14 @@
   amount: 340.160588
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655639"
 - date: 2017-09-13
   time: 12:18:19
   timezone: UTC
   amount: 5.23099
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655639"
 - date: 2017-09-13
@@ -4320,14 +4172,14 @@
   amount: 9.816181
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655664"
 - date: 2017-09-13
   time: 12:18:24
   timezone: UTC
   amount: 0.150953
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655664"
 - date: 2017-09-13
@@ -4336,14 +4188,14 @@
   amount: 2.027
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655669"
 - date: 2017-09-13
   time: 12:18:26
   timezone: UTC
   amount: 0.031171
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655669"
 - date: 2017-09-13
@@ -4352,14 +4204,14 @@
   amount: 448.234625
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655715"
 - date: 2017-09-13
   time: 12:18:36
   timezone: UTC
   amount: 6.892952
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655715"
 - date: 2017-09-13
@@ -4368,14 +4220,14 @@
   amount: 1.373585
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65655885"
 - date: 2017-09-13
   time: 12:18:55
   timezone: UTC
   amount: 0.021123
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65655885"
 - date: 2017-09-13
@@ -4384,14 +4236,14 @@
   amount: 79.918724
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656013"
 - date: 2017-09-13
   time: 12:19:16
   timezone: UTC
   amount: 1.22899
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656013"
 - date: 2017-09-13
@@ -4400,14 +4252,14 @@
   amount: 98.639338
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656020"
 - date: 2017-09-13
   time: 12:19:16
   timezone: UTC
   amount: 1.516876
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656020"
 - date: 2017-09-13
@@ -4416,14 +4268,14 @@
   amount: 10.32880014
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656037"
 - date: 2017-09-13
   time: 12:19:17
   timezone: UTC
   amount: 0.158836
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656037"
 - date: 2017-09-13
@@ -4432,14 +4284,14 @@
   amount: 14.096421
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656343"
 - date: 2017-09-13
   time: 12:19:57
   timezone: UTC
   amount: 0.216775
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656343"
 - date: 2017-09-13
@@ -4448,14 +4300,14 @@
   amount: 7.73180668
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656582"
 - date: 2017-09-13
   time: 12:20:21
   timezone: UTC
   amount: 0.1189
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656582"
 - date: 2017-09-13
@@ -4464,14 +4316,14 @@
   amount: 6.248532
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656760"
 - date: 2017-09-13
   time: 12:20:36
   timezone: UTC
   amount: 0.09609
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656760"
 - date: 2017-09-13
@@ -4480,14 +4332,14 @@
   amount: 0.30521
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656771"
 - date: 2017-09-13
   time: 12:20:38
   timezone: UTC
   amount: 0.004694
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656771"
 - date: 2017-09-13
@@ -4496,14 +4348,14 @@
   amount: 23.38364033
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656786"
 - date: 2017-09-13
   time: 12:20:39
   timezone: UTC
   amount: 0.359594
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656786"
 - date: 2017-09-13
@@ -4512,14 +4364,14 @@
   amount: 2.264592
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656788"
 - date: 2017-09-13
   time: 12:20:39
   timezone: UTC
   amount: 0.034825
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656788"
 - date: 2017-09-13
@@ -4528,14 +4380,14 @@
   amount: 3.98394
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656801"
 - date: 2017-09-13
   time: 12:20:40
   timezone: UTC
   amount: 0.061265
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656801"
 - date: 2017-09-13
@@ -4544,14 +4396,14 @@
   amount: 2.569378
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656807"
 - date: 2017-09-13
   time: 12:20:40
   timezone: UTC
   amount: 0.039512
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656807"
 - date: 2017-09-13
@@ -4560,14 +4412,14 @@
   amount: 1.09431986
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65656960"
 - date: 2017-09-13
   time: 12:20:53
   timezone: UTC
   amount: 0.016828
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65656960"
 - date: 2017-09-13
@@ -4576,14 +4428,14 @@
   amount: 21.435449
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65657230"
 - date: 2017-09-13
   time: 12:21:12
   timezone: UTC
   amount: 0.329634
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65657230"
 - date: 2017-09-13
@@ -4592,14 +4444,14 @@
   amount: 12.75783799
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65657265"
 - date: 2017-09-13
   time: 12:21:19
   timezone: UTC
   amount: 0.19619
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65657265"
 - date: 2017-09-13
@@ -4608,14 +4460,14 @@
   amount: 1.116853
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65657281"
 - date: 2017-09-13
   time: 12:21:19
   timezone: UTC
   amount: 0.017175
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65657281"
 - date: 2017-09-13
@@ -4624,14 +4476,14 @@
   amount: 4.985706
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65657289"
 - date: 2017-09-13
   time: 12:21:19
   timezone: UTC
   amount: 0.07667
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65657289"
 - date: 2017-09-13
@@ -4639,7 +4491,7 @@
   timezone: UTC
   amount: 51.64338754
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664507"
 - date: 2017-09-13
@@ -4648,14 +4500,14 @@
   amount: 0.800473
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664507"
 - date: 2017-09-13
   time: 12:36:44
   timezone: UTC
   amount: 0.12024
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664573"
 - date: 2017-09-13
@@ -4664,14 +4516,14 @@
   amount: 0.001864
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664573"
 - date: 2017-09-13
   time: 12:36:49
   timezone: UTC
   amount: 0.12024
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664631"
 - date: 2017-09-13
@@ -4680,14 +4532,14 @@
   amount: 0.001864
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664631"
 - date: 2017-09-13
   time: 12:36:54
   timezone: UTC
   amount: 1.923941
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664664"
 - date: 2017-09-13
@@ -4696,14 +4548,14 @@
   amount: 0.029821
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664664"
 - date: 2017-09-13
   time: 12:36:57
   timezone: UTC
   amount: 0.12024
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664695"
 - date: 2017-09-13
@@ -4712,14 +4564,14 @@
   amount: 0.001864
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664695"
 - date: 2017-09-13
   time: 12:37:04
   timezone: UTC
   amount: 119.337
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664768"
 - date: 2017-09-13
@@ -4728,14 +4580,14 @@
   amount: 1.849724
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664768"
 - date: 2017-09-13
   time: 12:37:15
   timezone: UTC
   amount: 0.12024
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664912"
 - date: 2017-09-13
@@ -4744,14 +4596,14 @@
   amount: 0.001864
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664912"
 - date: 2017-09-13
   time: 12:37:18
   timezone: UTC
   amount: 0.12024
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664944"
 - date: 2017-09-13
@@ -4760,14 +4612,14 @@
   amount: 0.001864
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664944"
 - date: 2017-09-13
   time: 12:37:20
   timezone: UTC
   amount: 0.502781
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664957"
 - date: 2017-09-13
@@ -4776,14 +4628,14 @@
   amount: 0.007793
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664957"
 - date: 2017-09-13
   time: 12:37:28
   timezone: UTC
   amount: 0.12024
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65664980"
 - date: 2017-09-13
@@ -4792,14 +4644,14 @@
   amount: 0.001864
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65664980"
 - date: 2017-09-13
   time: 12:37:29
   timezone: UTC
   amount: 0.502781
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665008"
 - date: 2017-09-13
@@ -4808,14 +4660,14 @@
   amount: 0.007793
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665008"
 - date: 2017-09-13
   time: 12:37:30
   timezone: UTC
   amount: 0.502383
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665027"
 - date: 2017-09-13
@@ -4824,14 +4676,14 @@
   amount: 0.007787
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665027"
 - date: 2017-09-13
   time: 12:37:30
   timezone: UTC
   amount: 0.202736
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665041"
 - date: 2017-09-13
@@ -4840,14 +4692,14 @@
   amount: 0.003142
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665041"
 - date: 2017-09-13
   time: 12:37:36
   timezone: UTC
   amount: 5.005005
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665109"
 - date: 2017-09-13
@@ -4856,14 +4708,14 @@
   amount: 0.077578
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665109"
 - date: 2017-09-13
   time: 12:37:42
   timezone: UTC
   amount: 3.14470967
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665193"
 - date: 2017-09-13
@@ -4872,14 +4724,14 @@
   amount: 0.048743
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665193"
 - date: 2017-09-13
   time: 12:37:43
   timezone: UTC
   amount: 51.64009977
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665198"
 - date: 2017-09-13
@@ -4888,14 +4740,14 @@
   amount: 0.800422
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665198"
 - date: 2017-09-13
   time: 12:37:47
   timezone: UTC
   amount: 18.937022
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665257"
 - date: 2017-09-13
@@ -4904,14 +4756,14 @@
   amount: 0.293524
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665257"
 - date: 2017-09-13
   time: 12:37:53
   timezone: UTC
   amount: 0.499339
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665343"
 - date: 2017-09-13
@@ -4920,14 +4772,14 @@
   amount: 0.00774
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665343"
 - date: 2017-09-13
   time: 12:37:53
   timezone: UTC
   amount: 5.17932
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665347"
 - date: 2017-09-13
@@ -4936,14 +4788,14 @@
   amount: 0.080279
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665347"
 - date: 2017-09-13
   time: 12:37:55
   timezone: UTC
   amount: 0.499515
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665363"
 - date: 2017-09-13
@@ -4952,14 +4804,14 @@
   amount: 0.007742
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665363"
 - date: 2017-09-13
   time: 12:38:00
   timezone: UTC
   amount: 0.499339
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665410"
 - date: 2017-09-13
@@ -4968,14 +4820,14 @@
   amount: 0.00774
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665410"
 - date: 2017-09-13
   time: 12:38:02
   timezone: UTC
   amount: 18.180093
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665429"
 - date: 2017-09-13
@@ -4984,14 +4836,14 @@
   amount: 0.281791
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665429"
 - date: 2017-09-13
   time: 12:38:07
   timezone: UTC
   amount: 4.813047
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665487"
 - date: 2017-09-13
@@ -5000,14 +4852,14 @@
   amount: 0.074602
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665487"
 - date: 2017-09-13
   time: 12:38:08
   timezone: UTC
   amount: 0.606839
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665500"
 - date: 2017-09-13
@@ -5016,14 +4868,14 @@
   amount: 0.009406
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665500"
 - date: 2017-09-13
   time: 12:38:11
   timezone: UTC
   amount: 0.499339
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665538"
 - date: 2017-09-13
@@ -5032,14 +4884,14 @@
   amount: 0.00774
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665538"
 - date: 2017-09-13
   time: 12:38:18
   timezone: UTC
   amount: 15.551258
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665592"
 - date: 2017-09-13
@@ -5048,14 +4900,14 @@
   amount: 0.241044
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665592"
 - date: 2017-09-13
   time: 12:38:19
   timezone: UTC
   amount: 24.858678
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665602"
 - date: 2017-09-13
@@ -5064,14 +4916,14 @@
   amount: 0.38531
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665602"
 - date: 2017-09-13
   time: 12:38:23
   timezone: UTC
   amount: 101.097743
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665633"
 - date: 2017-09-13
@@ -5080,14 +4932,14 @@
   amount: 1.567015
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665633"
 - date: 2017-09-13
   time: 12:38:26
   timezone: UTC
   amount: 0.502881
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665650"
 - date: 2017-09-13
@@ -5096,14 +4948,14 @@
   amount: 0.007795
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665650"
 - date: 2017-09-13
   time: 12:38:33
   timezone: UTC
   amount: 0.473161
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665680"
 - date: 2017-09-13
@@ -5112,14 +4964,14 @@
   amount: 0.007334
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665680"
 - date: 2017-09-13
   time: 12:38:33
   timezone: UTC
   amount: 0.499579
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665685"
 - date: 2017-09-13
@@ -5128,14 +4980,14 @@
   amount: 0.007743
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665685"
 - date: 2017-09-13
   time: 12:38:36
   timezone: UTC
   amount: 0.499665
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665721"
 - date: 2017-09-13
@@ -5144,14 +4996,14 @@
   amount: 0.007745
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665721"
 - date: 2017-09-13
   time: 12:38:45
   timezone: UTC
   amount: 9.47941543
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665766"
 - date: 2017-09-13
@@ -5160,14 +5012,14 @@
   amount: 0.146931
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665766"
 - date: 2017-09-13
   time: 12:38:45
   timezone: UTC
   amount: 177.7
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665768"
 - date: 2017-09-13
@@ -5176,14 +5028,14 @@
   amount: 2.75435
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665768"
 - date: 2017-09-13
   time: 12:38:46
   timezone: UTC
   amount: 3.84
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665769"
 - date: 2017-09-13
@@ -5192,14 +5044,14 @@
   amount: 0.05952
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665769"
 - date: 2017-09-13
   time: 12:38:48
   timezone: UTC
   amount: 15.038309
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665781"
 - date: 2017-09-13
@@ -5208,14 +5060,14 @@
   amount: 0.233094
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665781"
 - date: 2017-09-13
   time: 12:38:48
   timezone: UTC
   amount: 2.07431394
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665795"
 - date: 2017-09-13
@@ -5224,14 +5076,14 @@
   amount: 0.032152
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665795"
 - date: 2017-09-13
   time: 12:38:51
   timezone: UTC
   amount: 38.157
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665813"
 - date: 2017-09-13
@@ -5240,14 +5092,14 @@
   amount: 0.591433
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665813"
 - date: 2017-09-13
   time: 12:38:52
   timezone: UTC
   amount: 1.17870967
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665816"
 - date: 2017-09-13
@@ -5256,14 +5108,14 @@
   amount: 0.01827
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665816"
 - date: 2017-09-13
   time: 12:38:53
   timezone: UTC
   amount: 6.70161291
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665821"
 - date: 2017-09-13
@@ -5272,14 +5124,14 @@
   amount: 0.103875
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665821"
 - date: 2017-09-13
   time: 12:38:56
   timezone: UTC
   amount: 70.322688
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665834"
 - date: 2017-09-13
@@ -5288,14 +5140,14 @@
   amount: 1.090002
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665834"
 - date: 2017-09-13
   time: 12:38:58
   timezone: UTC
   amount: 2.238853
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665843"
 - date: 2017-09-13
@@ -5304,14 +5156,14 @@
   amount: 0.034702
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665843"
 - date: 2017-09-13
   time: 12:38:58
   timezone: UTC
   amount: 22.762
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665845"
 - date: 2017-09-13
@@ -5320,14 +5172,14 @@
   amount: 0.352811
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665845"
 - date: 2017-09-13
   time: 12:39:05
   timezone: UTC
   amount: 22.89
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65665920"
 - date: 2017-09-13
@@ -5336,14 +5188,14 @@
   amount: 0.354795
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65665920"
 - date: 2017-09-13
   time: 12:39:12
   timezone: UTC
   amount: 2.7352258
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666001"
 - date: 2017-09-13
@@ -5352,14 +5204,14 @@
   amount: 0.042396
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666001"
 - date: 2017-09-13
   time: 12:39:22
   timezone: UTC
   amount: 66.521691
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666056"
 - date: 2017-09-13
@@ -5368,14 +5220,14 @@
   amount: 1.031086
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666056"
 - date: 2017-09-13
   time: 12:39:26
   timezone: UTC
   amount: 13.081
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666094"
 - date: 2017-09-13
@@ -5384,14 +5236,14 @@
   amount: 0.202755
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666094"
 - date: 2017-09-13
   time: 12:39:30
   timezone: UTC
   amount: 28.522
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666139"
 - date: 2017-09-13
@@ -5400,14 +5252,14 @@
   amount: 0.442091
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666139"
 - date: 2017-09-13
   time: 12:39:33
   timezone: UTC
   amount: 101.12
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666167"
 - date: 2017-09-13
@@ -5416,14 +5268,14 @@
   amount: 1.56736
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666167"
 - date: 2017-09-13
   time: 12:39:34
   timezone: UTC
   amount: 1.0
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666170"
 - date: 2017-09-13
@@ -5432,14 +5284,14 @@
   amount: 0.0155
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666170"
 - date: 2017-09-13
   time: 12:39:36
   timezone: UTC
   amount: 1.10309677
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666188"
 - date: 2017-09-13
@@ -5448,14 +5300,14 @@
   amount: 0.017098
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666188"
 - date: 2017-09-13
   time: 12:39:43
   timezone: UTC
   amount: 23.11
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666232"
 - date: 2017-09-13
@@ -5464,14 +5316,14 @@
   amount: 0.358205
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666232"
 - date: 2017-09-13
   time: 12:39:43
   timezone: UTC
   amount: 92.0
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666252"
 - date: 2017-09-13
@@ -5480,14 +5332,14 @@
   amount: 1.426
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666252"
 - date: 2017-09-13
   time: 12:39:43
   timezone: UTC
   amount: 6.951594
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666253"
 - date: 2017-09-13
@@ -5496,14 +5348,14 @@
   amount: 0.10775
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666253"
 - date: 2017-09-13
   time: 12:39:45
   timezone: UTC
   amount: 3.02722581
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666298"
 - date: 2017-09-13
@@ -5512,14 +5364,14 @@
   amount: 0.046922
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666298"
 - date: 2017-09-13
   time: 12:39:48
   timezone: UTC
   amount: 0.11653
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666339"
 - date: 2017-09-13
@@ -5528,14 +5380,14 @@
   amount: 0.001806
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666339"
 - date: 2017-09-13
   time: 12:39:49
   timezone: UTC
   amount: 12.937003
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666344"
 - date: 2017-09-13
@@ -5544,14 +5396,14 @@
   amount: 0.200524
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666344"
 - date: 2017-09-13
   time: 12:39:50
   timezone: UTC
   amount: 20.64362
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666353"
 - date: 2017-09-13
@@ -5560,14 +5412,14 @@
   amount: 0.319976
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666353"
 - date: 2017-09-13
   time: 12:39:53
   timezone: UTC
   amount: 8.557239
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666408"
 - date: 2017-09-13
@@ -5576,14 +5428,14 @@
   amount: 0.132637
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666408"
 - date: 2017-09-13
   time: 12:39:56
   timezone: UTC
   amount: 32.2
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666446"
 - date: 2017-09-13
@@ -5592,14 +5444,14 @@
   amount: 0.4991
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666446"
 - date: 2017-09-13
   time: 12:39:59
   timezone: UTC
   amount: 118.549001
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666464"
 - date: 2017-09-13
@@ -5608,14 +5460,14 @@
   amount: 1.83751
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666464"
 - date: 2017-09-13
   time: 12:40:00
   timezone: UTC
   amount: 16.476607
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666466"
 - date: 2017-09-13
@@ -5624,14 +5476,14 @@
   amount: 0.255387
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666466"
 - date: 2017-09-13
   time: 12:40:04
   timezone: UTC
   amount: 68.493093
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666497"
 - date: 2017-09-13
@@ -5640,14 +5492,14 @@
   amount: 1.061643
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666497"
 - date: 2017-09-13
   time: 12:40:05
   timezone: UTC
   amount: 0.789165
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666500"
 - date: 2017-09-13
@@ -5656,14 +5508,14 @@
   amount: 0.012232
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666500"
 - date: 2017-09-13
   time: 12:40:40
   timezone: UTC
   amount: 56.0
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666759"
 - date: 2017-09-13
@@ -5672,14 +5524,14 @@
   amount: 0.868
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666759"
 - date: 2017-09-13
   time: 12:40:41
   timezone: UTC
   amount: 16.52
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666766"
 - date: 2017-09-13
@@ -5688,14 +5540,14 @@
   amount: 0.25606
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666766"
 - date: 2017-09-13
   time: 12:40:49
   timezone: UTC
   amount: 1.604972
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666796"
 - date: 2017-09-13
@@ -5704,14 +5556,14 @@
   amount: 0.024877
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666796"
 - date: 2017-09-13
   time: 12:40:49
   timezone: UTC
   amount: 11.695934
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666815"
 - date: 2017-09-13
@@ -5720,14 +5572,14 @@
   amount: 0.181287
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666815"
 - date: 2017-09-13
   time: 12:40:52
   timezone: UTC
   amount: 22.659
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666845"
 - date: 2017-09-13
@@ -5736,14 +5588,14 @@
   amount: 0.351214
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666845"
 - date: 2017-09-13
   time: 12:41:06
   timezone: UTC
   amount: 19.706
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666944"
 - date: 2017-09-13
@@ -5752,14 +5604,14 @@
   amount: 0.305443
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666944"
 - date: 2017-09-13
   time: 12:41:13
   timezone: UTC
   amount: 29.23
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65666974"
 - date: 2017-09-13
@@ -5768,14 +5620,14 @@
   amount: 0.453065
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65666974"
 - date: 2017-09-13
   time: 12:41:17
   timezone: UTC
   amount: 47.6407
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65667016"
 - date: 2017-09-13
@@ -5784,14 +5636,14 @@
   amount: 0.738431
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65667016"
 - date: 2017-09-13
   time: 12:41:19
   timezone: UTC
   amount: 121.12835169
   currency: LTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65667027"
 - date: 2017-09-13
@@ -5800,7 +5652,7 @@
   amount: 1.877489
   currency: BTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65667027"
 - date: 2017-09-13
   time: 14:42:46
@@ -5808,14 +5660,14 @@
   amount: 0.02208115
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65711721"
 - date: 2017-09-13
   time: 14:42:46
   timezone: UTC
   amount: 0.0003414629
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65711721"
 - date: 2017-09-13
@@ -5824,14 +5676,14 @@
   amount: 0.11915374
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65711722"
 - date: 2017-09-13
   time: 14:42:46
   timezone: UTC
   amount: 0.001843
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65711722"
 - date: 2017-09-13
@@ -5840,14 +5692,14 @@
   amount: 0.12022936
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65711723"
 - date: 2017-09-13
   time: 14:42:46
   timezone: UTC
   amount: 0.001859
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65711723"
 - date: 2017-09-13
@@ -5856,14 +5708,14 @@
   amount: 0.11711092
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65711724"
 - date: 2017-09-13
   time: 14:42:46
   timezone: UTC
   amount: 0.001811
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65711724"
 - date: 2017-09-13
@@ -5872,14 +5724,14 @@
   amount: 0.11826447
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65711725"
 - date: 2017-09-13
   time: 14:42:46
   timezone: UTC
   amount: 0.001829
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65711725"
 - date: 2017-09-13
@@ -5888,14 +5740,14 @@
   amount: 19.50316036
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65711726"
 - date: 2017-09-13
   time: 14:42:46
   timezone: UTC
   amount: 0.301616
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65711726"
 - date: 2017-09-13
@@ -5904,14 +5756,14 @@
   amount: 0.1
   currency: LTC
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 65713060"
 - date: 2017-09-13
   time: 14:45:41
   timezone: UTC
   amount: 0.001551
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 65713060"
 - date: 2017-09-15
@@ -5920,54 +5772,22 @@
   amount: 1000.0
   currency: XRP
   from: World
-  to: Bitfinex
+  to: Dio Alma
   reason: "Bitfinex trade 66683723"
 - date: 2017-09-15
   time: 08:35:43
   timezone: UTC
   amount: 0.0548
   currency: BTC
-  from: Bitfinex
+  from: Dio Alma
   to: World
   reason: "Bitfinex trade 66683723"
-- date: 2017-09-14
-  time: 10:41:38
-  timezone: UTC
-  amount: 79.99
-  currency: ETH
-  from: Bitfinex
-  to: Ethereum
-  reason: "Withdrawal"
-- date: 2017-09-13
-  time: 21:40:27
-  timezone: UTC
-  amount: 50.0
-  currency: BTC
-  from: Bitfinex
-  to: Bitcoin
-  reason: "Withdrawal"
-- date: 2017-09-13
-  time: 20:15:26
-  timezone: UTC
-  amount: 0.0006
-  currency: BTC
-  from: Bitfinex
-  to: Bitcoin
-  reason: "Withdrawal"
-- date: 2017-09-13
-  time: 14:46:50
-  timezone: UTC
-  amount: 20.0
-  currency: LTC
-  from: Bitfinex
-  to: Litecoin
-  reason: "Withdrawal"
 - date: 2017-09-14
   time: 14:06:27
   timezone: UTC
   amount: 79.986863
   currency: ETH
-  from: Ethereum
+  from: Dio Alma
   to: "World"
   reason: "Purchase of Herocoin"
 - date: 2017-09-14
@@ -5976,7 +5796,7 @@
   amount: 999822.5
   currency: PLAY
   from: World
-  to: Ethereum
+  to: Dio Alma
   reason: "Purchase of Herocoin"
 - date: 2017-09-30
   time: 12:21

@@ -1,0 +1,12 @@
+- name: expenses (food)
+- name: expenses (petrol)
+- name: expenses (telecom)
+- name: expenses (tools)
+- name: expenses (pleasure)
+- name: expenses (addiction)
+- name: expenses (other)
+- name: gifts
+- name: lodging
+- name: trading (external)
+- name: trading (internal)
+- name: transfers

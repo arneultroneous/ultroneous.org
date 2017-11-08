@@ -6134,3 +6134,11 @@
   from: Arne Slawik
   to: World
   reason: "Exchanging EUR for ETH."
+- date: 2017-11-08
+  time: 20:55
+  timezone: WET
+  amount: 200
+  currency: BTC
+  from: World
+  to: Dio Alma
+  reason: "Donation from Spencer."

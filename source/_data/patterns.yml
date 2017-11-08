@@ -152,3 +152,22 @@
   expectations: TODO
 - name: "providing technical tools"
   expectations: TODO
+- name: "clarifying expectations"
+  expectations:
+    - "When we notice it's relevant that different people expect different things, we don't continue in our processes with those people. Instead, we invite the people involved to gather for clarifying expectations."
+    - "We make it clear whether we are speaking for ourselves as individuals, or for our team, our cooperative, or another group."
+    - "When we notice the communication becomes tense, we don't react with further clarification. We ask for a one-minute centering."
+    - "We make our feelings of tension transparent immediately, even if we don't know where they come from."
+    - "We make offers, requests, proposals and agreements, not promises."
+    - "When making agreements with couples, we do not consider the agreement made without clear consent from both halves of the couple."
+  subpatterns:
+    - "asking for one-minute centerings"
+- name: "asking for one-minute centerings"
+  expectations:
+    - "We notice when we feel tense, stressed, uncertain, afraid, angry, or otherwise unclear in our body, heart or mind."
+    - "If we're in a process with people, we ask to leave this process for one minute to center ourselves, and we invite all involved to do the same."
+    - "We become centered again using whole-brain posture."
+  subpatterns:
+    - "using whole-brain posture"
+- name: "using whole-brain posture"
+  expectations: TODO

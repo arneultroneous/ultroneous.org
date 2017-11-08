@@ -5,7 +5,6 @@
   currency: EUR
   from: Dio Alma
   to: World
-  category: lodging
   reason: “Payment for 108 stay”
 - date: 2017-10-08
   time: 22:53:00
@@ -14,35 +13,7 @@
   currency: BTC
   from: World
   to: Dio Alma
-  category: gifts
   reason: "Donation from Spencer"
-- date: 2017-10-09
-  time: 10:05:00
-  timezone: WEST
-  amount: 0.01
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  category: transfers
-  reason: “Transfer”
-- date: 2017-10-09
-  time: 10:39:00
-  timezone: WEST
-  amount: 199.99
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  category: transfers
-  reason: “Transfer”
-- date: 2017-10-08
-  time: 20:59:00
-  timezone: WEST
-  amount: 45.08000580
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  category: transfers
-  reason: “Transfer”
 - date: 2017-10-08
   time: 10:39:00
   timezone: WEST
@@ -50,7 +21,6 @@
   currency: BTC
   from: Dio Alma
   to: World
-  category: trading (external)
   reason: “Trade BTC for ETH”
 - date: 2017-10-08
   time: 21:47:28
@@ -60,14 +30,6 @@
   from: World
   to: Dio Alma
   reason: “Trade BTC for ETH”	
-- date: 2017-10-08
-  time: 21:47:28
-  timezone: WEST
-  amount: 664.88838518
-  currency: ETH
-  from: Dio Alma
-  to: Dio Alma
-  reason: “Trade BTC for ETH”
 - date: 2017-10-09
   time: 12:08:12
   timezone: WEST
@@ -84,28 +46,12 @@
   from: World
   to: Dio Alma
 - date: 2017-10-09
-  time: 12:08:12
-  timezone: WEST
-  amount: 2998.48901064
-  currency: ETH
-  from: Dio Alma
-  to: Dio Alma
-  reason: “Trade BTC for ETH”
-- date: 2017-10-09
   time: 12:24:25
   timezone: WEST
   amount: 3.30662636
   currency: ETH
   from: World
   to: Dio Alma
-- date: 2017-10-09
-  time: 12:24:25
-  timezone: WEST
-  amount: 3.30662636
-  currency: ETH
-  from: Dio Alma
-  to: Dio Alma
-  reason: “Trade BTC for ETH”
 - date: 2017-09-29
   time: n/a
   timezone: WEST
@@ -114,14 +60,6 @@
   from: Dio Alma
   to: World
   reason: "Coffee."
-- date: 2017-09-27
-  time: 20:53:00
-  timezone: WEST
-  amount: 21
-  currency: ETH
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
 - date: 2017-09-27
   time: 20:53:00
   timezone: WEST
@@ -205,14 +143,6 @@
 - date: 2017-09-28
   time: 15:06:00
   timezone: WEST
-  amount: 1.9
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
-- date: 2017-09-28
-  time: 15:06:00
-  timezone: WEST
   amount: 0.000512
   currency: BTC
   from: Dio Alma
@@ -258,14 +188,6 @@
   from: Dio Alma
   to: World
   reason: "mining fee"
-- date: 2017-09-27
-  time: 14:11:00
-  timezone: WEST
-  amount: 2.7484
-  currency: LTC
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
 - date: 2017-09-27
   time: 14:11:00
   timezone: WEST
@@ -331,22 +253,6 @@
   to: World
   reason: "Purchase of three Doogee S60 from Chinavasion Wholesale Ltd.."
 - date: 2017-10-03
-  time: 15:29:00
-  timezone: WEST
-  amount: 682.70
-  currency: EUR
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
-- date: 2017-10-03
-  time: 11:52:22
-  timezone: WEST
-  amount: 3.5
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
-- date: 2017-10-03
   time: 11:52:22
   timezone: WEST
   amount: 0.000462
@@ -357,27 +263,11 @@
 - date: 2017-10-03
   time: 17:02:00
   timezone: WEST
-  amount: 1.85012587
-  currency: BCH
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
-- date: 2017-10-03
-  time: 17:02:00
-  timezone: WEST
   amount: 0.00019200
   currency: BCH
   from: Dio Alma
   to: World
   reason: "mining fee"
-- date: 2017-10-03
-  time: 14:23:04
-  timezone: WEST
-  amount: 36.93830044
-  currency: BCH
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
 - date: 2017-10-03
   time: 14:23:04
   timezone: WEST
@@ -405,27 +295,11 @@
 - date: 2017-10-05
   time: 19:28:32
   timezone: WEST
-  amount: 0.22051679
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
-- date: 2017-10-05
-  time: 19:28:32
-  timezone: WEST
   amount: 0.00044402
   currency: BTC
   from: Dio Alma
   to: World
   reason: "mining fee"
-- date: 2017-09-27
-  time: 13:44:34
-  timezone: WEST
-  amount: 221.45857932
-  currency: ETH
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
 - date: 2017-09-27
   time: 13:44:34
   timezone: WEST
@@ -437,14 +311,6 @@
 - date: 2017-09-27
   time: 07:53:06
   timezone: UTC
-  amount: 21
-  currency: ETH
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
-- date: 2017-09-27
-  time: 07:53:06
-  timezone: UTC
   amount: 0.000441
   currency: ETH
   from: Dio Alma
@@ -453,27 +319,11 @@
 - date: 2017-09-25
   time: 21:36:48
   timezone: WEST
-  amount: 0.2616073
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Transfer"
-- date: 2017-09-25
-  time: 21:36:48
-  timezone: WEST
   amount: 0.00078610
   currency: BTC
   from: Dio Alma
   to: World
   reason: "mining fee"
-- date: 2017-10-05
-  time: 22:14:00
-  timezone: WEST
-  amount: 0.26216073
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  reason: "transfer"
 - date: 2017-10-05
   time: 22:14:00
   timezone: WEST
@@ -5930,38 +5780,6 @@
   from: Dio Alma
   to: World
   reason: "Bitfinex trade 66683723"
-- date: 2017-09-14
-  time: 10:41:38
-  timezone: UTC
-  amount: 79.99
-  currency: ETH
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Withdrawal"
-- date: 2017-09-13
-  time: 21:40:27
-  timezone: UTC
-  amount: 50.0
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Withdrawal"
-- date: 2017-09-13
-  time: 20:15:26
-  timezone: UTC
-  amount: 0.0006
-  currency: BTC
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Withdrawal"
-- date: 2017-09-13
-  time: 14:46:50
-  timezone: UTC
-  amount: 20.0
-  currency: LTC
-  from: Dio Alma
-  to: Dio Alma
-  reason: "Withdrawal"
 - date: 2017-09-14
   time: 14:06:27
   timezone: UTC

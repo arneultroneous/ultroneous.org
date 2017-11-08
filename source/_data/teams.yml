@@ -1,0 +1,42 @@
+- name: Startup
+  players:
+    - name: Spencer Campbell
+      address: spencer@ultroneous.org
+      title: Organizer
+      responsibilities:
+        - "sustaining change"
+        - "learning and improving"
+        - "practicing one-minute management"
+        - "providing a credit system"
+        - "involving people"
+        - "serving communities"
+        - "explaining cryptocurrency clearly and accurately"
+    - name: Dio Alma
+      address: dioalma@gmail.com
+      title: Technician
+      responsibilities:
+        - "learning and improving"
+        - "providing technical tools"
+        - "doing technical work"
+        - "practicing one-minute management"
+        - "trading cryptocurrency"
+        - "storing electronics"
+    - name: Arne Slawik
+      address: arneultroneous@protonmail.com
+      title: Notekeeper
+      responsibilities:
+        - "learning and improving"
+        - "cultivating healthy habits"
+        - "practicing one-minute management"
+        - "storing electronics"
+    - name: Shirley Norwood
+      address: smnaus@gmail.com
+      title: Body/Mind/Heart Connector
+      responsibilities:
+        - "anticipating emergencies and providing tools to address them"
+        - "listening and loving"
+        - "providing container leadership"
+        - "practicing one-minute management"
+        - "providing feeling tools"
+        - "providing thinking tools"
+        - "providing spaces for heart connection"

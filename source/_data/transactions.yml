@@ -6042,14 +6042,6 @@
   from: Arne Slawik
   to: World
   reason: "Petrol."
-- date: 2017-09-18
-  time: n/a
-  timezone: WEST
-  amount: 8.3056
-  currency: Eth
-  from: Veda
-  to: Arne Slawik
-  reason: "Reimbursement."
 - date: 2017-09-19
   time: n/a
   timezone: WEST
@@ -6298,3 +6290,19 @@
   from: Arne Slawik
   to: World
   reason: "Toilet."
+- date: 2017-10-27
+  time: 21:18:00
+  timezone: WEST
+  amount: 2120.39
+  currency: EUR
+  from: Exchanging
+  to: Arne Slawik
+  reason: "Exchanging EUR for ETH."
+- date: 2017-10-27
+  time: 21:18:00
+  timezone: WEST
+  amount: 8.3056
+  currency: ETH
+  from: Arne Slawik
+  to: Exchanging
+  reason: "Exchanging EUR for ETH."

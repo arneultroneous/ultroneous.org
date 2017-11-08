@@ -5944,7 +5944,7 @@
   amount: 50.0
   currency: BTC
   from: Bitfinex
-  to: Bitcoin
+  to: Electrum
   reason: "Withdrawal"
 - date: 2017-09-13
   time: 20:15:26
@@ -5952,7 +5952,7 @@
   amount: 0.0006
   currency: BTC
   from: Bitfinex
-  to: Bitcoin
+  to: Electrum
   reason: "Withdrawal"
 - date: 2017-09-13
   time: 14:46:50

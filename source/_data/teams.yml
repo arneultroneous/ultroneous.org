@@ -1,45 +1,42 @@
 - name: Startup
   players:
-    - address: spencer@ultroneous.org
+    - name: Spencer Campbell
+      address: spencer@ultroneous.org
       title: Organizer
       responsibilities:
-        picking-up:
-            - "organizing teams"
-            - "improving culture"
-            - "sustaining change"
-        carrying:
-            - "serving communities"
-        letting-go:
-    - address: dioalma@gmail.com
+        - "sustaining change"
+        - "learning and improving"
+        - "practicing one-minute management"
+        - "providing a credit system"
+        - "involving people"
+        - "serving communities"
+        - "explaining cryptocurrency clearly and accurately"
+    - name: Dio Alma
+      address: dioalma@gmail.com
       title: Technician
       responsibilities:
-        picking-up:
-            - "providing technical tools"
-        carrying:
-            - "doing technical work"
-        letting-go:
-            - "trading cryptocurrency"
+        - "learning and improving"
+        - "providing technical tools"
+        - "doing technical work"
+        - "practicing one-minute management"
+        - "trading cryptocurrency"
+        - "storing electronics"
     - name: Arne Slawik
       address: arneultroneous@protonmail.com
       title: Notekeeper
       responsibilities:
-        picking-up:
-            - "documenting processes"
-            - "calling attention to transitions"
-            - "tracking open threads"
-            - "keeping note of learnings"
-        carrying:
-        letting-go:
+        - "learning and improving"
+        - "cultivating healthy habits"
+        - "practicing one-minute management"
+        - "storing electronics"
     - name: Shirley Norwood
       address: smnaus@gmail.com
       title: Body/Mind/Heart Connector
       responsibilities:
-        picking-up:
-            - "providing container leadership"
-            - "anticipating emergencies and providing tools to address them"
-        carrying:
-            - "providing spaces for heart connection"
-            - "listening and loving"
-            - "providing feeling tools"
-            - "providing thinking tools"
-        letting-go:
+        - "anticipating emergencies and providing tools to address them"
+        - "listening and loving"
+        - "providing container leadership"
+        - "practicing one-minute management"
+        - "providing feeling tools"
+        - "providing thinking tools"
+        - "providing spaces for heart connection"

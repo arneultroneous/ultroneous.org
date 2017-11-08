@@ -1,84 +1,102 @@
+- name: "cultivating healthy habits"
+  subpatterns:
+    - "observing body feeling after eating"
+    - "making decisions based on feelings."
+    - "practising worldlove"
+    - "crossing arms and legs to get calm"
 - name: "observing body feeling after eating"
   expectations:
-    - "I eat everything I desire with full greatfulness."
-    - "I observe what my body is telling me and how my energylevel is adjusting. "
-    - "I start to desire mostly things which make me feel great."
-    - "I don't regret when I eat something unhealthy and just observe what it does to me."
-    - "I gain more consciousness for many parts in my life."
-- name: "decision making based on feelings."
+    - "We eat everything we desire with full gratitude."
+    - "We observe what our body is telling us and how our energy level is adjusting."
+    - "We start to desire mostly things which make us feel great."
+    - "We don't regret when we eat something unhealthy and just observe what it does to us."
+    - "We gain more consciousness for many parts of our life."
+- name: "making decisions based on feelings."
   expectations:
     - "We collect information about the decision we want to make."
     - "We view our different approaches in connection with the driver/attractor."
+<<<<<<< HEAD
+    - "In the situation where we are not sure due to not clear pros or cons we feel into our body and observe body sensations while imagining the outcome (using Whole Brain posture)"
+=======
     - "In the situation where we are not sure due to not clear pros or cons we feel into our body and observe body sensations
        while imagening the outcome(using Whole Brain posture)"
+>>>>>>> master
     - "We bravely decide by 'listening' to these feelings and sensations, trusting the that this is the decision to follow even
-       when the brain tries to itervene with logic."
+       when the brain tries to intervene with logic."
 - name: "explaining cryptocurrency clearly and accurately"
   expectations:
-    - "I only talk while my audience is clearly listening, and when they stop to think I notice and wait for them to engage again."
-    - "I explain how a cryptocurrency transaction can be verified as originating from the sender, because it is signed cryptographically."
-    - "I explain that bitcoin's blockchain is a list of transactions, each consisting of a sender, a receiver, an amount, a fee, and a miner."
-    - "I explain how bitcoin mining works as a process of computers trying to guess numbers, finding one that fits with one block of transactions, so that the hashing algorithm converts the block into a hash with sufficiently many zeroes at the front."
-- name: "documenting attractors"
-  expectations:
-    - "I notice an attractive possibility, and I write it in the attractors file."
-  attractors:
-    - "Our motives are documented, transparent, and regularly reviewed to evaluate our performance as a cooperative."
+    - "We only talk while our audience is clearly listening, and when they stop to think we notice and wait for them to engage again."
+    - "We explain how a cryptocurrency transaction can be verified as originating from the sender, because it is signed cryptographically."
+    - "We explain that bitcoin's blockchain is a list of transactions, each consisting of a sender, a receiver, an amount, a fee, and a miner."
+    - "We explain how bitcoin mining works as a process of computers trying to guess numbers, finding one that fits with one block of transactions, so that the hashing algorithm converts the block into a hash with sufficiently many zeroes at the front."
 - name: "documenting patterns"
   expectations:
-    - "I notice something we expect to do, and think of a gerund phrase to name it as a pattern."
-    - "I think of the elements that I experience when I am in the pattern."
-    - "I document the attractors that the pattern manifests."
-    - "I write an entry in the patterns file consisting of name, elements, and attractors."
-  attractors:
-    - "We know what we expected to do in the past."
-    - "We know what we expect to do in the future."
-- name: "staying in communication"
-  expectations:
-    - "I answer proposals on loomio within 24 hours."
-  attractors:
-    - "We make decisions as a team easily, soon after questions arise."
+    - "Our way of doing things is documented in a YAML file, as a list of patterns."
+    - "We name our patterns as gerund phrases, so that they complete sentences of the form 'we are...'."
+    - "We write down what we expect to be true, as part of each pattern."
+    - "One or more of us are carrying responsibility to improve each documented pattern."
 - name: "practising worldlove"
   expectations:
-    - "I leave my 'workspace'."
-    - "I start to do something more or less unrelated."
-    - "I look around and observe the surroundings and the thoughts and feelings connected to it."
-    - "I find and see the beauty within the world."
-- name: "networking for the cooperative"
+    - "We leave our 'workspace' regularly."
+    - "We start doing something more or less unrelated."
+    - "We look around and observe the surroundings and the thoughts and feelings connected to it."
+    - "We find and see the beauty within the world."
+- name: "learning and improving"
   expectations:
-    - "I intentionally make new connections, getting to know more people than I do now."
-    - "I gather names and email addresses from the people I know, and add them as contacts in crm.ultroneous.org, with myself as contact owner."
-    - "I stay in communication with my contacts, so that I know the important events in their lives."
-    - "I practice stakeholder management, gathering consent from my contacts for the projects of the cooperative."
-    - "I make offers and requests to create opportunities for cooperation between my contacts and my team."
-- name: "working as a student"
-  expectations:
-    - "I actively search for the highest possible value that I can contribute to the cooperative."
-    - "I stay in high awareness of tension, confusion and doubts in myself and others."
-    - "I relentlessly ask questions."
-    - "I always have a clear learning task."
+    - "We actively search for the highest possible value that we can contribute."
+    - "We relentlessly ask questions with the aim to learn and improve, as individuals, as teams, as a cooperative, and as a planet."
+    - "We notice concerns, desires, insights, mistakes, observations, questions, suggestions, tensions, appreciations, and anything else we can learn from."
+    - "We keep notes on what we can learn from, as kanban cards."
+    - "We look at our notes with our team, closing cards that aren't relevant anymore and pulling cards that are."
+    - "We clarify what we intend to learn, before we prepare an experiment to improve."
+    - "We prepare experiments in writing before we do them, noticing whose expectations they meet, and whose not."
+    - "We gather consent before we experiment."
+    - "We look at the results of each of our experiments with our team, evaluating what changed."
+    - "We integrate the improvements that come out of our experiments into our way of doing things, by writing new standards in our patterns file."
+    - "We gather consent on new standards before committing to them and assigning responsibility to improve them further."
+    - "Our standards are represented in our patterns file."
+  subpatterns:
+    - "gathering consent"
+    - "documenting patterns"
+- name: "gathering consent"
+  expectations: TODO
 - name: "trading cryptocurrency"
   expectations:
-    - "I only trade for joy."
-    - "I stay in high awareness of my emotional wellbeing, and speak to the cooperative when trading is causing stress in my life."
-    - "I look at the market as an animal, buying to care for it when it's weak, and selling to set it free when it's strong."
-    - "If I strongly believe that cryptocurrency will take over the world in the coming years, I only trade in bear markets, never in bull markets."
-- name: "hosting network contacts in a team gathering"
+    - "We only trade for joy."
+    - "We stay in high awareness of our emotional wellbeing, and speak to our team when trading is causing stress in our lives."
+    - "We look at the market as an animal, buying to care for it when it's weak, and selling to set it free when it's strong."
+    - "If we strongly believe that cryptocurrency will take over the world in the coming years, we only trade in bear markets, never in bull markets."
+- name: "involving people"
   expectations:
-    - "I only step into this role when I intuitively sense the magic that says one of my contacts is ready to commit to the cooperative."
-    - "At the moment when I feel it's right to invite them, I tell them I feel that, and I will check with my team first, before I invite."
-    - "I clarify with my team what to propose to my contacts before I invite them, and get consent from my team to follow through if they accept."
-    - "I clarify with my team what I think and feel my contacts will contribute to the cooperative, and gather consent on a proposal to make to them."
-    - "I invite my contacts to meet with my team to check the proposal together."
-    - "If the proposal includes them joining my team, it includes at least one role for them."
+    - "We hold weekly online circles, where we invite our friends to connect with us."
+    - "We document our contacts on crm.ultroneous.org."
+    - "We keep documentation of how passionate our contacts are to work for our vision and values."
+    - "We keep documentation of how clearly our contacts understand our mission and principles."
+    - "We assign one-minute managers from our teams to receive engagement from our volunteers."
+    - "We cultivate consent economics at every opportunity."
+  subpatterns:
+    - "cultivating consent economics"
+    - "documenting contacts"
+    - "receiving voluntary engagement"
+- name: "cultivating consent economics"
+  expectations:
+    - "We know how we relate to people, on the Wheel of Consent, noticing when we or they change quadrant."
+    - "We only accept gifts and services offered freely, without trying to convince, making it clear when we stand in the receiving half of the Wheel of Consent."
+    - "We only offer gifts and services freely, without trying to benefit, making it clear when we stand in the giving half of the Wheel of Consent."
+- name: "cultivating consent economics"
+  expectations: TODO
+- name: "documenting contacts"
+  expectations: TODO
+- name: "receiving voluntary engagement"
+  expectations: TODO
 - name: "sustaining change"
   expectations:
     - "We use the Changing Leadership practices described in the book Sustaining Change."
   subprocesses:
-    - "providing containers"
-    - "providing attractors"
-    - "providing edge and tension"
-    - "transforming space"
+    - "providing container leadership"
+    - "providing attractor leadership"
+    - "providing edge and tension leadership"
+    - "prodiving transforming space leadership"
 - name: "providing container leadership"
   expectations:
     - "I am self-assured and confident, taking a stand for my beliefs."
@@ -87,104 +105,55 @@
     - "I make it safe to say risky things and have the 'hard to have' conversations through empathy and high quality dialogue skills."
     - "I set and contract boundaries, clear expectations and hard rules so that people know what to operate on and how to operate."
     - "I create alignment at the top and build networks of relationships that stay in tune with the system and can channel the change."
+- name: "providing attractor leadership"
+  expectations: TODO
+- name: "providing edge and tension leadership"
+  expectations: TODO
+- name: "prodiving transforming space leadership"
+  expectations: TODO
 - name: "doing technical work"
   expectations:
-    - "I find ways to do things that the cooperative doesn't know how to do yet."
-- name: "serving a community"
+    - "We find ways to do things that the cooperative doesn't know how to do yet."
+- name: "serving communities"
   expectations:
-    - "I make a clear offer of time to a community, specifying exactly the days and hours that I'm willing to commit to service."
-    - "I only work under the condition that one representative of the community is actively managing me and deciding how to use my time."
-    - "I set aside what I want or don't want, and only pay attention to what I am or am not willing to do."
-    - "I encourage my manager to make requests to me freely, without worrying about what I want."
-    - "When I'm asked to do something I am unwilling to do, I clearly refuse, and offer an alternative."
-    - "When I see a way to serve the community better, which I'm willing to do, I offer the idea to my manager, without concern for what answer comes back."
-- name: "managing a team"
+    - "We make clear offers of time to our communities, specifying exactly the days and hours that we are willing to commit to service."
+    - "We only work under the condition that representatives of the community actively manage us and decide how to use our time."
+    - "We set aside what we want or don't want, and only pay attention to what we are or are not willing to do."
+    - "We encourage our managers to make requests to us freely, without worrying about what we want."
+    - "When we are asked to do something we are unwilling to do, we clearly refuse, and offer an alternative."
+    - "When we see a way to serve a community better, we offer the idea to our managers, without concern for what answer comes back."
+- name: "practicing one-minute management"
   expectations:
-    - "I make sure everyone on my team has read One-Minute Manager."
-    - "I work to keep all the tasks on my team's kanban clear, as one-minute goals."
-    - "I call attention to good performance in my team, and celebrate it with one-minute praisings."
-    - "I call attention to poor performance in my team, and celebrate it with one-minute reprimands."
-- name: "Crossing arms and legs to get calm"
+    - "We ask everyone we work with to read One-Minute Manager."
+    - "We clarify intentions and expectations for ourselves and our teammates by setting one-minute goals."
+    - "We encourage ourselves and our teammates to learn and improve by giving one-minute praisings and redirects."
+  subpatterns:
+    - "setting one-minute goals"
+    - "giving one-minute praisings"
+    - "giving one-minute redirects"
+- name: "setting one-minute goals"
+  expectations: TODO
+- name: "giving one-minute praisings"
+  expectations: TODO
+- name: "giving one-minute redirects"
+  expectations: TODO
+- name: "crossing arms and legs to get calm"
   expectations:
-    - "I notice when I am felling out of balance."
-    - "I cross my legs and cross my wrists(interlace hands) into a praying stance and just observe as I get calmer/centered."
+    - "We notice when we are feeling out of balance."
+    - "We cross our legs and cross our wrists (interlace hands) into a praying stance and just observe as we get calmer/centered."
 - name: "storing electronics"
   expectations:
-    - "I value the product as what it is."
-    - "I distinguish between products that are high in plastic, and those high in gold or silver, and discard the plastic ones, holding the future vision of regaining a purpose for any material we collect."
-- name: "keeping note of learnings"
-  expectations:
-    - "We write appreciations, suggestions, questions and observations in our kanban for learnings."
-- name: "organizing teams"
-  expectations:
-    - "We are a sociocratic cooperative."
-    - "We organize as teams of three to twelve committed people."
-    - "Each team continuously improves the processes it is responsible for."
-    - "Our expectations and experiences are well-documented and openly available."
-  subprocesses:
-    - "improving processes"
-    - "welcoming involvement"
-    - "deciding by consent"
-    - "managing knowledge"
-- name: "improving processes"
-  expectations:
-  subprocesses:
-    - "celebrating every week"
-    - "documenting processes"
-    - "keeping note of learnings"
-- name: "welcoming involvement"
-  expectations:
-    - "We passively attract interest, because we openly celebrate who we are and what we do."
-    - "We can easily access clear information on who is interested in us, who is engaged with us, and who is committed to us."
-    - "We welcome interested people to engage, and engaged people to commit."
-    - "Every engaged contact has a committed manager."
-  subprocesses:
-    - "welcoming interest"
-    - "welcoming engagement"
-    - "welcoming commitment"
-    - "documenting contacts"
-- name: "improving culture"
-  expectations:
-  subprocesses:
-    - "improving language"
-    - "speaking truth"
-- name: "observing body feeling after eating"
-  elements:
-    - "I eat everything I desire with full greatfulness."
-    - "I observe what my body is telling me and how my energylevel is adjusting. "
-    - "I start to desire mostly things which make me feel great."
-    - "I don't regret when I eat something unhealthy and just observe what it does to me."
-    - "I gain more consciousness for many parts in my life."
-- name: "decision making based on feelings."
-  elements:
-    - "We collect information about the decision we want to make."
-    - "We view our different approaches in connection with the driver/attractor."
-    - "In the situation where we are not sure due to not clear pros or cons we feel into our body and observe body sensations
-       while imagening the outcome(using Whole Brain posture)"
-    - "We bravely decide by 'listening' to these feelings and sensations, trusting the that this is the decision to follow even
-       when the brain tries to itervene with logic."
-- name: "explaining cryptocurrency clearly and accurately"
-  elements:
-    - "I only talk while my audience is clearly listening, and when they stop to think I notice and wait for them to engage again."
-    - "I explain how a cryptocurrency transaction can be verified as originating from the sender, because it is signed cryptographically."
-    - "I explain that bitcoin's blockchain is a list of transactions, each consisting of a sender, a receiver, an amount, a fee, and a miner."
-    - "I explain how bitcoin mining works as a process of computers trying to guess numbers, finding one that fits with one block of transactions, so that the hashing algorithm converts the block into a hash with sufficiently many zeroes at the front."
-- name: "documenting attractors"
-  elements:
-    - "I notice an attractive possibility, and I write it in the attractors file."
-  attractors:
-    - "Our motives are documented, transparent, and regularly reviewed to evaluate our performance as a cooperative."
-- name: "documenting patterns"
-  elements:
-    - "I notice something we expect to do, and think of a gerund phrase to name it as a pattern."
-    - "I think of the elements that I experience when I am in the pattern."
-    - "I document the attractors that the pattern manifests."
-    - "I write an entry in the patterns file consisting of name, elements, and attractors."
-  attractors:
-    - "We know what we expected to do in the past."
-    - "We know what we expect to do in the future."
-- name: "staying in communication"
-  elements:
-    - "I answer proposals on loomio within 24 hours."
-  attractors:
-    - "We make decisions as a team easily, soon after questions arise."
+    - "We value the product as what it is."
+    - "We distinguish between products that are high in plastic, and those high in gold or silver, and discard the plastic ones, holding the future vision of regaining a purpose for any material we collect."
+- name: "anticipating emergencies and providing tools to address them"
+  expectations: TODO
+- name: "providing spaces for heart connection"
+  expectations: TODO
+- name: "listening and loving"
+  expectations: TODO
+- name: "providing feeling tools"
+  expectations: TODO
+- name: "providing thinking tools"
+  expectations: TODO
+- name: "providing technical tools"
+  expectations: TODO

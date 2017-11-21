@@ -212,4 +212,9 @@
     - "We always intend to find the perfect place for all our desires."
     - "We receive what we get and have with all the love and gratitude possible, knowing that sometimes not all the desires are met."
     - "We clarify expectations with the owner of the place."
+- name: "creating a task"
+  expectations:
+    - "I choose a note in the 'Notes' Kanban, if excisting."
+    - "I create a One-Minute-Goal."
+    - "I form a gerund phrase into a card in the tasks KanBan."
     

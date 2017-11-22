@@ -6142,3 +6142,21 @@
   from: World
   to: Dio Alma
   reason: "Donation from Spencer."
+- date: 2017-11-20
+  time: 17:00
+  timezone: UTC+0
+  amount: 1000
+  currency: EUR
+  from: World
+  to: Arne
+  category: transfers
+  reason: A person gave back money to Spencer and it was integrated.
+- date: 2017-11-21
+  time: 20:30
+  timezone: UTC+0
+  amount: 35
+  currency: EUR
+  from: Arne
+  to: World
+  category: expenses (food)
+  reason: Restaurant with Shirley and Annelies

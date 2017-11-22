@@ -6148,7 +6148,7 @@
   amount: 1000
   currency: EUR
   from: World
-  to: Arne
+  to: Arne Slawik
   category: transfers
   reason: A person gave back money to Spencer and it was integrated.
 - date: 2017-11-21
@@ -6156,7 +6156,7 @@
   timezone: UTC+0
   amount: 35
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   category: expenses (food)
   reason: Restaurant with Shirley and Annelies

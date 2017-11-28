@@ -2,6 +2,7 @@
 title: Grieving Life Lost
 category: journal
 tags: lucidity love
+author: spencer@ultroneous.org
 ---
 
 Today I realized, belatedly, that I'm in grief.

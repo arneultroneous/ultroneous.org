@@ -3,6 +3,7 @@ title: An Unbusiness Model
 author: spencer@ultroneous.org
 category: article
 tags: organization home language
+author: spencer@ultroneous.org
 ---
 
 This is a continuation of thoughts from [an earlier article]({% post_url 2017-08-19-cooperative %}), specifically an exploration of two terms: "gift economics" and "vertical integration". I'll go over these as a foundation, and then describe a concept based on them that I'll call an unbusiness model.

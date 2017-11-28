@@ -2,6 +2,7 @@
 title: Character Transformation
 category: article
 tags: trust lucidity
+author: spencer@ultroneous.org
 ---
 
 Most intentional communities fail. Of those that survive beyond the first few years, nearly all of them fall short of the dream. And the dream isn't so far away; we all experience it in our lives, at one point or another, with friends or lovers, at gatherings or festivals,{% sidenote "I can name [Burning Man](https://en.wikipedia.org/wiki/Burning_Man) and [World Domination Summit](https://worlddominationsummit.com/), off the top of my head, as examples. I haven't been to a gathering like this, but I know a lot of people who have." %} or in transcendental experiences.

@@ -2,6 +2,7 @@
 title: A New Kind of Household
 category: journal
 tags: trust home love
+author: spencer@ultroneous.org
 ---
 
 It's been two weeks since the start of my [one-month community organization experiment]({{site.baseurl}}{% post_url 2017-01-17-organization %}), and it's already a magnificent success.{% sidenote "That is to say: the whole thing collapsed decisively on day ten. That's what a successful experiment looks like, most of the time!" %}

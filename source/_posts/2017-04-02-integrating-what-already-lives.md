@@ -2,6 +2,7 @@
 title: Integrating What Already Lives
 category: journal
 tags: organization trust
+author: spencer@ultroneous.org
 ---
 
 I'm helping in the huge, overgrown garden of my friend, and thereby learning how life works. The other day I had an insight.

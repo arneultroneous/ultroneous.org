@@ -2,6 +2,7 @@
 title: The Will to Receive
 category: journal
 tags: trust love
+author: spencer@ultroneous.org
 ---
 
 The meeting with the wise woman hasn't happened yet. Over the last few years I began to notice a pattern in my life, where it takes a *very* long time for people to fulfill their promises to me. Once I noticed it, I could start to understand how I create it. The next step is to change it.

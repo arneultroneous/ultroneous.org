@@ -2,6 +2,7 @@
 title: Organization
 category: journal
 tags: organization language trust home
+author: spencer@ultroneous.org
 ---
 
 Last summer, "organization" became the most important word in my life.

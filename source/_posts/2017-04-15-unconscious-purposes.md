@@ -2,6 +2,7 @@
 title: Unconscious Purposes
 category: article
 tags: lucidity learning organization
+author: spencer@ultroneous.org
 ---
 
 One of my favorite articles of all time is called [Lost Purposes](http://lesswrong.com/lw/le/lost_purposes/). It's about the phenomenon of human beings forgetting their original intentions, and then pursuing the means as though they were the ends.

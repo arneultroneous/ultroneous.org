@@ -2,6 +2,7 @@
 title: The Will to Arrive
 category: journal
 tags: trust lucidity
+author: spencer@ultroneous.org
 ---
 
 The flipside of [the will to receive]({{site.baseurl}}{% post_url 2017-01-08-will-to-receive %}) is the will to arrive. Today's events cast a new light on this part of my [year's resolutions]({{site.baseurl}}{% post_url 2016-12-21-winter-solstice %}). I'll try to define my terms, first.

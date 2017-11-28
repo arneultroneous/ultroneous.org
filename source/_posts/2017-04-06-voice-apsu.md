@@ -2,6 +2,7 @@
 title: Voice of Apsu
 category: journal
 tags: love lucidity learning
+author: spencer@ultroneous.org
 ---
 
 Today I had a conversation about the phenomenon I routinely experience when I see a certain woman, where I'm immediately dropped into a world of mind-shattering beauty and I'm not sure what to do about it.

@@ -2,6 +2,7 @@
 title: Celebration
 category: article
 tags: learning language trust organization
+author: spencer@ultroneous.org
 ---
 
 Cultures learn by celebrating.

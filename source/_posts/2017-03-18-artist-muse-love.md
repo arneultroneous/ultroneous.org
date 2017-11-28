@@ -2,6 +2,7 @@
 title: Artist-Muse Love
 category: article
 tags: love language lucidity
+author: spencer@ultroneous.org
 ---
 
 Two days ago, a number of puzzle pieces clicked together in my mind, and suddenly I saw a plausible answer to [the anima/animus problem]({% post_url 2017-01-03-anima-strategy %})

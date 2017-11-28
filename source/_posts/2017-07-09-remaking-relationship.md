@@ -2,6 +2,7 @@
 title: Remaking Relationship
 category: journal
 tags: language trust love
+author: spencer@ultroneous.org
 ---
 
 I got stuck at a certain point, about a month ago, and now I want to get moving again.

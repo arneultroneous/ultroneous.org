@@ -3,7 +3,7 @@
     <nav class="group">
     {% if page.author %}
         {% assign gravatar-md5 = page.author | md5 %}
-		{% assign logo-url = "http://gravatar.com/avatar/{{gravatar-md5}}" %}
+		{% assign logo-url = "http://gravatar.com/avatar/" | append: gravatar-md5 %}
     {% else %}
 		{% assign logo-url = "/assets/veda.png" %}
     {% endif %}

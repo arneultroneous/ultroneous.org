@@ -9,13 +9,13 @@
     <a href="{{site.baseurl}}/"><img class="badge" src="http://gravatar.com/avatar/{{gravatar-md5}}"></a>
     {% assign nodes = site.pages | sort:"nav-weight" %}
     {% for node in nodes %}
-        {% unless node.nav_exclude %}
+        {% if node.title-slug %}
             {% if page.url == node.url %}
               <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title-slug}}</a>
             {% else %}
               <a href="{{node.url | prepend: site.baseurl}}">{{node.title-slug}}</a>
             {% endif %}
-        {% endunless %}
+        {% endif %}
     {% endfor %}
     </nav>
 </header>

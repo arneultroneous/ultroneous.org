@@ -4,7 +4,7 @@ title-slug: about
 nav-weight: 0
 ---
 
-You can say Veda is a cooperative, although that's not the whole story.
+Veda is [a way of working together](principles).
 
 The first time we called ourselves a cooperative was on September 9th, 2017. We wanted to work together. Long before we spoke about what we would do, that was clear. Before we even met, we started to study simple methods of management and organization, so we would have a common language, and we would know what we're getting into.
 

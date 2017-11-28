@@ -22,7 +22,7 @@ We care about material. We see material being wasted, used to make things no one
 
 We care about knowledge.
 
-{% newthought "We see knowledge" %} scattered all over the world. We know much more than any of us knows. As individuals, we know almost nothing. As a planet, we know more than enough to make anything possible. No matter what there is to be done, there is a way of doing it. All we have to do is ask: who knows the way?
+{% newthought "We see knowledge" %} scattered all over the world. Together we know much more than any of us knows. As individuals, we know almost nothing. As a planet, we know more than enough to make anything possible. No matter what there is to be done, there is a way of doing it. All we have to do is ask: who knows the way?
 
 If we don't know the way, do we know who does?
 

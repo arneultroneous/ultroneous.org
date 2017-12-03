@@ -1,3 +1,7 @@
+- name: "booking poeple"
+  expectations:
+    - "We concent on a time, place, duration and topic."
+    - "We look at the calendars for everyone involved."
 - name: "cultivating healthy habits"
   subpatterns:
     - "observing body feeling after eating"

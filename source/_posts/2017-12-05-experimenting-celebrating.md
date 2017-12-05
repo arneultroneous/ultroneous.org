@@ -7,7 +7,7 @@ author: spencer@ultroneous.org
 
 I belong to Veda, [a cooperative]({% post_url 2017-08-19-cooperative %}) that constantly experiments and [celebrates]({% post_url 2017-09-09-celebration %}) the unexpected as a means to [continuously improve]({% post_url 2016-12-25-kaizen-culture %}).
 
-I'm celebrating that first of all, because Veda Cooperative itself was highly unexpected for me.
+I'm celebrating that first of all, because Veda itself was highly unexpected for me.
 
 {% newthought "I'm part" %} of a team of four. So far, we've been celebrating our work amongst ourselves. My intention with this post is to widen that.
 

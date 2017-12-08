@@ -81,6 +81,10 @@
     - "We don't try to compensate for losses."
     - "We never keep money stored in an exchange."
     - "We celebrate with the team our significant trades."
+    - "We keep all trades documented and we check all balances involved before and after finishing trading."
+    - "We keep the private keys encrypted."
+    - "We make sure that the sensible files containing private keys do not get ever decrypted to any form of permanent memory like HDD's or a piece of paper."
+    - "We make sure that we delete the files properly and reboot the system."
 - name: "involving people"
   expectations:
     - "We hold weekly online circles, where we invite our friends to connect with us."

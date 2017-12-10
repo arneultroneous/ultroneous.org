@@ -2,6 +2,7 @@
 title: Hear, See, Do
 category: article
 tags: learning language
+author: spencer@ultroneous.org
 ---
 
 "Education" is the most dangerous word in the world.

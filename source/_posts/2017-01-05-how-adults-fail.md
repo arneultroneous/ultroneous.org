@@ -2,6 +2,7 @@
 title: How Adults Fail
 category: article
 tags: learning trust
+author: spencer@ultroneous.org
 ---
 
 I once read a book by [John Holt](https://en.wikipedia.org/wiki/John_Holt_(educator)), called "How Children Fail", which had an influence on my own childhood.{% sidenote "I was in preschool for three days, and quit because I discovered that story time was mandatory. My parents and I tried homeschooling for about a month, but we didn't really like it, so after that I mainly played video games and watched television, exactly like the adults around me. I'm immensely grateful for this." %}

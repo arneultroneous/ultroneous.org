@@ -2,6 +2,7 @@
 title: Anima Strategy
 category: journal
 tags: love
+author: spencer@ultroneous.org
 ---
 
 Tomorrow I'm going to have lunch with one of the wise women of my village, because I want help making a plan for my love life.{% sidenote "I'm very pleased that I've orchestrated my life in such a way that things like this can be true." %}

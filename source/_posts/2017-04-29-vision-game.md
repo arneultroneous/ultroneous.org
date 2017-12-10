@@ -2,6 +2,7 @@
 title: Vision Game
 category: article
 tags: organization lucidity
+author: spencer@ultroneous.org
 hidden: yes
 ---
 

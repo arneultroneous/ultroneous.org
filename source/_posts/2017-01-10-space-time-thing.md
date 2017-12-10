@@ -2,6 +2,7 @@
 title: Space Time Thing
 category: article
 tags: organization language
+author: spencer@ultroneous.org
 hidden: yes
 ---
 

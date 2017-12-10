@@ -2,6 +2,7 @@
 title: Culture Design
 category: article
 tags: language home organization
+author: spencer@ultroneous.org
 ---
 
 I want to give an example of what I mean when I talk about creating new culture. It's about creating new habits.{% sidenote "It isn't my intention to prescribe habits, in this article; just to give a sense of the kind of thing a habit is, and how small changes in behavior can massively transform the world." %}

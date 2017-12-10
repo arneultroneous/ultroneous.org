@@ -6160,3 +6160,155 @@
   to: World
   category: expenses (food)
   reason: Restaurant with Shirley and Annelies
+- date: 2017-11-19
+  time: 19:59
+  timezone: WET
+  amount: 45
+  currency: EUR
+  from: Spencer Campbell
+  to: Shirley Norwood
+  reason: "Transfer"
+- date: 2017-10-09
+  time: 13:36
+  timezone: UTC+0
+  amount: 0.46013856
+  currency: ETH
+  from: World
+  to: Dio Alma
+  category: trading (external)
+  reason: Purchase of ETH
+- date: 2017-10-09
+  time: 13:36
+  timezone: UTC+0
+  amount: 123.83
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: trading (external)
+  reason: Purchase of ETH
+- date: 2017-10-12
+  time: 12:54
+  timezone: UTC+0
+  amount: 0.30606071
+  currency: BTC
+  from: Dio Alma
+  to: World
+  category: trading (external)
+  reason: Sale of BTC for EUR in CoinBase
+- date: 2017-10-19
+  time: 8:43
+  timezone: UTC+0
+  amount: 0.5220
+  currency: BTC
+  from: Dio Alma
+  to: World
+  category: trading (external)
+  reason: Sale of BTC for EUR in CoinBase
+- date: 2017-10-12
+  time: 15:04
+  timezone: UTC+0
+  amount: 1310.18
+  currency: EUR
+  from: World
+  to: Dio Alma
+  category: trading (external)
+  reason: Sale of BTC for EUR in CoinBase
+- date: 2017-10-19
+  time: 20:44
+  timezone: UTC+0
+  amount: 2455.95
+  currency: EUR
+  from: World
+  to: Dio Alma
+  category: trading (external)
+  reason: Sale of BTC for EUR in CoinBase
+- date: 2017-10-03
+  time: n/a
+  timezone: UTC+0
+  amount: 112.79
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: expenses (other)
+  reason: Purchase of CBD oil for sick child, daughter of Batista.
+- date: 2017-10-13
+  time: n/a
+  timezone: UTC+0
+  amount: 1.69
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: expenses (telecom)
+  reason: Purchase of Google credit.
+- date: 2017-10-14
+  time: n/a
+  timezone: UTC+0
+  amount: 621.99
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: expenses (other)
+  reason: Purchase of Shirley's flight to Portugal.
+- date: 2017-10-14
+  time: n/a
+  timezone: UTC+0
+  amount: 19.41
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: expenses (other)
+  reason: Purchase of Shirley's flight to Portugal.(Taxes)
+- date: 2017-10-15
+  time: n/a
+  timezone: UTC+0
+  amount: 299.36
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: expenses (other)
+  reason: Purchase of Dio's flight to Austria.
+- date: 2017-10-18
+  time: n/a
+  timezone: UTC+0
+  amount: 0.87
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: expenses (telecom)
+  reason: Purchase of Google credit.
+- date: 2017-10-18
+  time: n/a
+  timezone: UTC+0
+  amount: 44
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: expenses (other)
+  reason: Purchase of FlixBus Ticket for Dio and Maria from Vienna to Graz.
+- date: 2017-10-31
+  time: 13:30
+  timezone: UTC+0
+  amount: 5
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: gifts
+  reason: Donation to stranger in Lisbon.
+- date: 2017-11-03
+  time: n/a
+  timezone: UTC+0
+  amount: 1350
+  currency: EUR
+  from: Dio Alma
+  to: Arne Slawik
+  category: transfers
+  reason: Transfer from Dio to Arne to pay for PDC.
+- date: 2017-10-10
+  time: n/a
+  timezone: UTC+0
+  amount: 20
+  currency: EUR
+  from: Dio Alma
+  to: World
+  category: lodging
+  reason: 108 contribution.

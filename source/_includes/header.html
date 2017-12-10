@@ -3,19 +3,20 @@
     <nav class="group">
     {% if page.author %}
         {% assign gravatar-md5 = page.author | md5 %}
+		{% assign logo-url = "http://gravatar.com/avatar/" | append: gravatar-md5 %}
     {% else %}
-        {% assign gravatar-md5 = "spencer@ultroneous.org" | md5 %}
+		{% assign logo-url = "/assets/veda.png" %}
     {% endif %}
-    <a href="{{site.baseurl}}/"><img class="badge" src="http://gravatar.com/avatar/{{gravatar-md5}}"></a>
+    <a href="{{site.baseurl}}/"><img class="badge" src="{{logo-url}}"></a>
     {% assign nodes = site.pages | sort:"nav-weight" %}
     {% for node in nodes %}
-        {% unless node.nav_exclude %}
+        {% if node.title-slug %}
             {% if page.url == node.url %}
               <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title-slug}}</a>
             {% else %}
               <a href="{{node.url | prepend: site.baseurl}}">{{node.title-slug}}</a>
             {% endif %}
-        {% endunless %}
+        {% endif %}
     {% endfor %}
     </nav>
 </header>

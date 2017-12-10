@@ -2,6 +2,7 @@
 title: Regenerative Culture
 category: article
 tags: lucidity language trust
+author: spencer@ultroneous.org
 ---
 
 I want to make my own attempt at answering [the three questions I gave you before]({% post_url 2017-04-23-threshold-action %}).

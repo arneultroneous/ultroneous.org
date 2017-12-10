@@ -2,6 +2,7 @@
 title: Act Natural
 category: article
 tags: language
+author: spencer@ultroneous.org
 hidden: yes
 ---
 

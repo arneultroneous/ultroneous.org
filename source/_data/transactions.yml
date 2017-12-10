@@ -6142,6 +6142,14 @@
   from: World
   to: Dio Alma
   reason: "Donation from Spencer."
+- date: 2017-11-19
+  time: 19:59
+  timezone: WET
+  amount: 45
+  currency: EUR
+  from: Spencer Campbell
+  to: Shirley Norwood
+  reason: "Transfer"
 - date: 2017-10-09
   time: 13:36
   timezone: UTC+0

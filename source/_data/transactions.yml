@@ -12,8 +12,16 @@
   amount: 200
   currency: BTC
   from: World
+  to: Spencer Campbell
+  reason: "Commitment from Spencer"
+- date: 2017-10-08
+  time: 22:53:00
+  timezone: WEST
+  amount: 200
+  currency: BTC
+  from: Spencer Campbell
   to: Dio Alma
-  reason: "Donation from Spencer"
+  reason: "Transfer"
 - date: 2017-10-08
   time: 10:39:00
   timezone: WEST
@@ -1181,7 +1189,7 @@
   currency: BCH
   from: World
   to: Dio Alma
-  reason: "Donation from Spencer"
+  reason: "Commitment from Spencer"
 - date: 2017-09-13
   time: 00:04:40
   timezone: UTC
@@ -1189,7 +1197,7 @@
   currency: BCH
   from: World
   to: Dio Alma
-  reason: "Donation from Spencer"
+  reason: "Commitment from Spencer"
 - date: 2017-09-18
   time: 10:39:00
   timezone: WEST
@@ -6141,7 +6149,7 @@
   currency: BTC
   from: World
   to: Dio Alma
-  reason: "Donation from Spencer."
+  reason: "Commitment from Spencer."
 - date: 2017-11-20
   time: 17:00
   timezone: UTC+0
@@ -6312,3 +6320,30 @@
   to: World
   category: lodging
   reason: 108 contribution.
+- date: 2017-12-21
+  time: 22:08
+  timezone: UTC+0
+  amount: 166.3045234
+  currency: BTC
+  from: World
+  to: Spencer Campbell
+  category: gifts
+  reason: Commitment from Spencer
+- date: 2017-12-21
+  time: 22:08
+  timezone: UTC+0
+  amount: 2434680.65432
+  currency: XRP
+  from: World
+  to: Spencer Campbell
+  category: gifts
+  reason: Commitment from Spencer
+- date: 2017-12-21
+  time: 22:08
+  timezone: UTC+0
+  amount: 10
+  currency: EUR
+  from: World
+  to: Spencer Campbell
+  category: gifts
+  reason: Commitment from Spencer

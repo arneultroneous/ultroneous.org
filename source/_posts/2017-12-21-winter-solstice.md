@@ -52,3 +52,19 @@ The biggest improvement to my ability to arrive somewhere has come from letting 
 {% newthought "I received" %} more and greater gifts this year than I am able to recount.
 
 I practiced concentrating on an unfamiliar image of myself: to see myself as a host, holding a space where a great many things can enter. I received all sorts this way, and welcomed them all more or less{% sidenote "More or less. I still notice myself getting annoyed or disturbed by the behavior of some guests. It tends to pass quickly." %} equally.
+
+I found that I enjoyed saying yes as much as I enjoyed saying no.{% sidenote "Some say yes too often. I've said no too often." %} I found, as well, the unexpected importance of saying nothing and continuing to listen, until the time is right -- and I enjoy that, too. All three of these are challenging and rewarding, in different ways.
+
+To stand at an open doorway, greeting visitors, listening to their stories, and, at last, either welcoming them inside or sending them to another place. It's an interesting position to be in. Every visitor is a gift, and every visitor is a risk. I always find both these realities easy to see. It's never a question of *if* I say yes; it's a question of *when*, and for how long. My house cannot hold everyone who wants to visit at the same time. Timing becomes important.
+
+This is how it felt to me, becoming part of a team. I often felt myself in the role of the host, providing the context where something can happen, caring for everything going on in the space that I hold.
+
+The greatest gift I received was my team.
+
+{% newthought "I'm grateful" %} for Diogo. His transformation into adulthood, over the last three months, has deepened my faith in the potential of humanity as a whole to heal. I know now for a fact that the knot of fear around money, which nearly all of us are trapped in, can be loosened and finally undone.
+
+I'm grateful for Arne. I have seen more of the future through him than I have through any dream or fantasy, and it's more beautiful than I can bear to look at for long. All I can say is that I have now felt at peace in the presence of unspeakable truth.
+
+I'm grateful for Shirley. I am endlessly amazed that a human being who has gained so much knowledge remains so absolutely, and seemingly effortlessly, dedicated to learning more. I am still coming to terms with the humbling shock of knowing who was waiting to come inside, when I open my door.
+
+I'm grateful for who I became.

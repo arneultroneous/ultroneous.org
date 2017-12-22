@@ -1,7 +1,7 @@
 ---
 title: Winter Solstice, year 1
 category: journal
-tags: language
+tags: language learning lucidity organization
 author: spencer@ultroneous.org
 ---
 

@@ -16,4 +16,4 @@ Before deciding on a plan of action, teams call together [circles](/organization
 
 To bring the highest priorities into focus, it recognizes [centers](/organization/centers) where people are working together to care for the places where they live, to provide home to each other, to learn and develop their knowledge, and to embody the potential of their love.
 
-It is these communities that Veda is organized to serve.
+These centers are what Veda is organized to serve.

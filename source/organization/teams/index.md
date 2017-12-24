@@ -8,3 +8,5 @@ Conceptually, our cooperative consists of teams. At present only one team exists
 * Dio Alma
 * Shirley Norwood
 * Spencer Campbell
+
+This page will grow to become more detailed when there are two teams, calling for differentiation between their areas of work.

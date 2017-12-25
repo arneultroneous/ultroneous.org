@@ -1,3 +1,7 @@
+- name: "reporting transactions to the credit system"
+    - "We take note of the reason, time, date, currency, sender, receipient and amount of the transaction."
+    - "We insert this noted information in the format accepted by the credit system."
+    - "We create a pull request with the newly inserted transactions in the transactions.yml file or we ask for assistance of the cibernetics circle to do so."
 - name: "cultivating healthy habits"
   subpatterns:
     - "observing body feeling after eating"

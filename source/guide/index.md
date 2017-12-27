@@ -1,0 +1,16 @@
+---
+title: Working together
+layout: full-width
+cover: /assets/veda.png
+intro: # When is it useful? (Situations, drivers, tensions, questions)
+  image: /assets/veda.png
+  text: ""
+core: # How is it done? (Steps, stages, procedures, submethods)
+  image: /assets/veda.png
+  text: ""
+outro: # What makes it work? (Principles, traps)
+  image: /assets/veda.png
+  text: ""
+---
+
+{% include method-booklet.html %}

@@ -1,0 +1,33 @@
+.booklet .page 
+{
+    width: 74mm; height: 105mm;  /* Each page in the booklet is A7 size */
+    display: inline-block; /* They appear side by side, when the screen is wide enough */
+    border: 1px dashed black;
+}
+
+.booklet .cover
+{
+    width: 148mm; height: 105mm;  /* Each page in the booklet is A7 size */
+    border: 1px dashed black;
+    display: flex;
+    align-items: center;
+}
+
+.booklet .couplet
+{
+    display: flex;
+    align-items: center;
+}
+
+.booklet .image.page
+{
+    display: flex;
+    align-items: center;
+}
+
+.booklet .image.page img
+{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}

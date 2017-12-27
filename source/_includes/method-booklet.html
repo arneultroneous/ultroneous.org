@@ -1,0 +1,35 @@
+<div class="booklet">
+    <div class="cover couplet">
+        <img src="{{page.cover}}">
+    </div>
+    <div class="intro couplet">
+        <div class="text page">
+            {% for paragraph in page.intro.text %}
+            <p>{{paragraph}}</p>
+            {% endfor %}
+        </div>
+        <div class="image page">
+            <img src="{{page.intro.image}}">
+        </div>
+    </div>
+    <div class="core couplet">
+        <div class="text page">
+            {% for paragraph in page.core.text %}
+            <p>{{paragraph}}</p>
+            {% endfor %}
+        </div>
+        <div class="image page">
+            <img src="{{page.core.image}}">
+        </div>
+    </div>
+    <div class="outro couplet">
+        <div class="text page">
+            {% for paragraph in page.outro.text %}
+            <p>{{paragraph}}</p>
+            {% endfor %}
+        </div>
+        <div class="image page">
+            <img src="{{page.outro.image}}">
+        </div>
+    </div>
+</div>

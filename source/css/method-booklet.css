@@ -22,7 +22,7 @@
     line-height: 14pt;
 }
 
-.booklet .page li
+.booklet .page li:not(:first-child)
 {
     margin-top: 12pt;
 }

@@ -1,6 +1,6 @@
 ---
 title: Working together
-layout: full-width
+layout: method-booklet
 cover: /assets/veda.png
 intro:
   image: /assets/veda.png
@@ -23,5 +23,3 @@ outro:
     - "We open our hearts to the whole world, and we only say things are working when our hearts are at peace."
     - "We aspire to work together with everyone, knowing that, ultimately, all our hearts want the same."
 ---
-
-{% include method-booklet.html %}

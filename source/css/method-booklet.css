@@ -1,13 +1,35 @@
+.booklet
+{
+    width: 100%;
+    max-width: 148mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .booklet .page 
 {
     width: 74mm; height: 105mm;  /* Each page in the booklet is A7 size */
-    display: inline-block; /* They appear side by side, when the screen is wide enough */
     border: 1px dashed black;
+}
+
+@media only screen and (min-width: 148mm)
+{ /* Booklet pages appear side by side, in couplets, when the screen is wide enough */
+    .booklet .page 
+    {
+        display: inline-block;
+    }
+    .booklet .couplet
+    {
+        display: flex;
+        align-items: center;
+    }
 }
 
 .booklet .cover
 {
-    width: 148mm; height: 105mm;  /* Each page in the booklet is A7 size */
+    width: 100%;
+    max-width: 148mm;
+    height: 105mm;
     border: 1px dashed black;
     display: flex;
     align-items: center;
@@ -18,12 +40,7 @@
     height: 80%;
     margin-left: auto;
     margin-right: auto;
-}
-
-.booklet .couplet
-{
-    display: flex;
-    align-items: center;
+    object-fit: contain; /* Preserve aspect ratio, on small displays */
 }
 
 .booklet .image.page

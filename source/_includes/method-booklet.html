@@ -13,13 +13,13 @@
         </div>
     </div>
     <div class="core couplet">
+        <div class="image page">
+            <img src="{{page.core.image}}">
+        </div>
         <div class="text page">
             {% for paragraph in page.core.text %}
             <p>{{paragraph}}</p>
             {% endfor %}
-        </div>
-        <div class="image page">
-            <img src="{{page.core.image}}">
         </div>
     </div>
     <div class="outro couplet">

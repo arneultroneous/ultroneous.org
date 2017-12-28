@@ -5,6 +5,7 @@
     <div class="intro couplet">
         <div class="text page">
             <p>{{page.intro.context}}</p>
+            {% if page.intro.prerequisites %}
             <p>It includes the methods below.</p>
             <hr />
             <ul>
@@ -12,6 +13,7 @@
                 <li><a href="/guide/{{prerequisite | slugify}}">{{prerequisite}}</a></li>
                 {% endfor %}
             </ul>
+            {% endif %}
         </div>
         <div class="image page">
             <img src="{{page.intro.image}}">

@@ -9,7 +9,6 @@
 .booklet .page 
 {
     width: 74mm; height: 105mm;  /* Each page in the booklet is A7 size */
-    border: 1px dashed black;
     margin-left: auto;
     margin-right: auto;
     padding: 5%;
@@ -61,7 +60,6 @@
     width: 100%;
     max-width: 148mm;
     height: 105mm;
-    border: 1px dashed black;
     display: flex;
     align-items: center;
 }

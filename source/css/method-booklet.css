@@ -1,0 +1,86 @@
+.booklet
+{
+    width: 100%;
+    max-width: 148mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.booklet .page 
+{
+    width: 74mm; height: 105mm;  /* Each page in the booklet is A7 size */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5%;
+}
+
+.booklet .page p,
+.booklet .page li
+{
+    font-size: 12pt;
+    line-height: 14pt;
+}
+
+.booklet .page li:not(:first-child)
+{
+    margin-top: 12pt;
+}
+
+.booklet .page ol
+{
+    list-style-type: decimal;
+}
+
+.booklet .page ul
+{
+    list-style-type: circle;
+}
+
+.booklet .page ol,
+.booklet .page ul
+{
+    margin-left: 5%;
+}
+
+@media only screen and (min-width: 148mm)
+{ /* Booklet pages appear side by side, in couplets, when the screen is wide enough */
+    .booklet .page 
+    {
+        display: inline-block;
+    }
+    .booklet .couplet
+    {
+        display: flex;
+        align-items: center;
+    }
+}
+
+.booklet .cover
+{
+    width: 100%;
+    max-width: 148mm;
+    height: 105mm;
+    display: flex;
+    align-items: center;
+}
+
+.booklet .cover img
+{
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain; /* Preserve aspect ratio, on small displays */
+}
+
+.booklet .image.page
+{
+    display: flex;
+    align-items: center;
+}
+
+.booklet .image.page img
+{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}

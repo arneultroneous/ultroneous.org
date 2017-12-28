@@ -18,3 +18,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: "guide"
+      type: "pages"
+    values:
+      layout: "method-booklet"

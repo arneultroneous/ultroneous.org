@@ -1,0 +1,42 @@
+<div class="booklet">
+    <div class="cover couplet">
+        <img src="{{page.cover}}">
+    </div>
+    <div class="intro couplet">
+        <div class="text page">
+            <p>{{page.intro.context}}</p>
+            <p>It includes the methods below.</p>
+            <hr />
+            <ul>
+                {% for prerequisite in page.intro.prerequisites %}
+                <li><a href="/guide/{{prerequisite | slugify}}">{{prerequisite}}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="image page">
+            <img src="{{page.intro.image}}">
+        </div>
+    </div>
+    <div class="core couplet">
+        <div class="image page">
+            <img src="{{page.core.image}}">
+        </div>
+        <div class="text page">
+            <ol>
+                {% for step in page.core.procedure %}
+                <li>{{step}}</li>
+                {% endfor %}
+            </ol>
+        </div>
+    </div>
+    <div class="outro couplet">
+        <div class="text page">
+            {% for principle in page.outro.principles %}
+            <p>{{principle}}</p>
+            {% endfor %}
+        </div>
+        <div class="image page">
+            <img src="{{page.outro.image}}">
+        </div>
+    </div>
+</div>

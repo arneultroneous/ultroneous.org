@@ -1,6 +1,5 @@
 ---
 title: Working together
-layout: method-booklet
 cover: /assets/veda.png
 intro:
   image: /assets/veda.png

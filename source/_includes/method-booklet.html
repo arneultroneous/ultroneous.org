@@ -4,8 +4,11 @@
     </div>
     <div class="intro couplet">
         <div class="text page">
-            {% for paragraph in page.intro.text %}
-            <p>{{paragraph}}</p>
+            <p>{{page.intro.context}}</p>
+            <p>It includes the methods below.</p>
+            <hr />
+            {% for prerequisite in page.intro.prerequisites %}
+            <p>{{prerequisite}}</p>
             {% endfor %}
         </div>
         <div class="image page">
@@ -17,15 +20,15 @@
             <img src="{{page.core.image}}">
         </div>
         <div class="text page">
-            {% for paragraph in page.core.text %}
-            <p>{{paragraph}}</p>
+            {% for step in page.core.procedure %}
+            <p>{{step}}</p>
             {% endfor %}
         </div>
     </div>
     <div class="outro couplet">
         <div class="text page">
-            {% for paragraph in page.outro.text %}
-            <p>{{paragraph}}</p>
+            {% for principle in page.outro.principles %}
+            <p>{{principle}}</p>
             {% endfor %}
         </div>
         <div class="image page">

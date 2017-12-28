@@ -12,7 +12,35 @@
     border: 1px dashed black;
     margin-left: auto;
     margin-right: auto;
-    text-size: 10pt;
+    padding: 5%;
+}
+
+.booklet .page p,
+.booklet .page li
+{
+    font-size: 10pt;
+    line-height: 14pt;
+}
+
+.booklet .page li
+{
+    margin-top: 12pt;
+}
+
+.booklet .page ol
+{
+    list-style-type: decimal;
+}
+
+.booklet .page ul
+{
+    list-style-type: circle;
+}
+
+.booklet .page ol,
+.booklet .page ul
+{
+    margin-left: 5%;
 }
 
 @media only screen and (min-width: 148mm)

@@ -7,9 +7,11 @@
             <p>{{page.intro.context}}</p>
             <p>It includes the methods below.</p>
             <hr />
-            {% for prerequisite in page.intro.prerequisites %}
-            <p>{{prerequisite}}</p>
-            {% endfor %}
+            <ul>
+                {% for prerequisite in page.intro.prerequisites %}
+                <li>{{prerequisite}}</li>
+                {% endfor %}
+            </ul>
         </div>
         <div class="image page">
             <img src="{{page.intro.image}}">
@@ -20,9 +22,11 @@
             <img src="{{page.core.image}}">
         </div>
         <div class="text page">
-            {% for step in page.core.procedure %}
-            <p>{{step}}</p>
-            {% endfor %}
+            <ol>
+                {% for step in page.core.procedure %}
+                <li>{{step}}</li>
+                {% endfor %}
+            </ol>
         </div>
     </div>
     <div class="outro couplet">

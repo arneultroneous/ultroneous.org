@@ -26,5 +26,4 @@ outro:
     - "We evaluate our method of planning based on how swiftly and elegantly it brings desired outcomes and expected outcomes into alignment."
     - "We stay focused on the present and the future, dismissing costs that have already been paid."
     - "We challenge one another to reveal our true expectations, questions, concerns and doubts."
-    - "We stay with one card, refusing to move on, until we either expect success or accept failure."
 ---

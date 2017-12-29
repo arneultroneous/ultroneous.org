@@ -4,7 +4,7 @@ cover: /assets/veda.png
 intro:
   image: /assets/veda.png
   context: # When is this method meant to be employed?
-    "To be employed when working on an assignment in the planning or delivering stage."
+    "To be used when working on an assignment in the planning or delivering stage."
   prerequisites: # What methods are employed as part of this method?
     - Pulling cards
     - Setting due dates
@@ -13,7 +13,7 @@ intro:
 core:
   image: /assets/veda.png
   procedure: # What are the steps in employing this method?
-    - "Looking at a card assigned to us, we ask: Do we expect success?"
+    - "We look at the card for our assignment, we ask: Do we expect success?"
     - "If we do, we pull the card to delivering and set a due date answering when."
     - "If we don't, we pull the card to celebrating and write a comment answering why."
     - "If we aren't sure, we reallocate resources until we are."

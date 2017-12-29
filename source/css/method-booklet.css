@@ -12,6 +12,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 5%;
+    border-bottom: 1px dashed black;
 }
 
 .booklet .page p,

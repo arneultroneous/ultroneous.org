@@ -4,7 +4,7 @@ cover: /assets/veda.png
 intro:
   image: /assets/veda.png
   context: # When is this method meant to be employed?
-    "To be used when looking at a kanban card in the Planning or Delivering column."
+    "To be used when the delivery of a desired outcome feels uncertain."
   prerequisites: # What methods are employed as part of this method?
     - Expecting success and accepting failure
     - Writing subtasks

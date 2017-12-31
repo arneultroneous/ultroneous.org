@@ -1,5 +1,5 @@
 - name: "reporting transactions to the Treasure Chest"
-    - "We take note of the reason, time, date, currency, sender, receipient and amount of the transaction."
+    - "We take note of the Coinbag used, reason, time, date, currency, sender, receipient and amount of the transaction."
     - "In the situation of "time", if not available or applicable, the sign of n/a is considered as such.
     - "We insert this noted information in the format accepted by the Treasure Chest."
     - "We create a pull request with the newly inserted transactions in the transactions.yml file or we ask for assistance of the cibernetics circle to do so."

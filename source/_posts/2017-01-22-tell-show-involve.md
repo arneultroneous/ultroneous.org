@@ -2,6 +2,7 @@
 title: Tell, Show, Involve
 category: journal
 tags: learning trust
+author: spencer@ultroneous.org
 ---
 
 I'm not happy with [the first post]({{site.baseurl}}{% post_url 2016-12-24-hear-see-do %}) I wrote on education. I think it shows a habit I want to let go of: the "voice of God"{% marginfigure "https://upload.wikimedia.org/wikipedia/commons/0/0b/10commandmentsCI.jpg" "I only wrote it down. If you have something to say about it, go to church. [(source)](https://commons.wikimedia.org/wiki/File:10commandmentsCI.jpg)" %} writing style, where I state The Absolute Truth and give no space for response.

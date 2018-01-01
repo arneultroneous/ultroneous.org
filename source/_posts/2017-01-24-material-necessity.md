@@ -2,6 +2,7 @@
 title: Material Necessity
 category: article
 tags: love home language
+author: spencer@ultroneous.org
 ---
 
 In Tamera the word "tonal" is in common usage. It means earthly, mundane, material, tangible.{% sidenote "[This meaning](http://www.encyclopedia-of-religion.org/tonal_nagual.html) came from [Carlos Castaneda's](https://en.wikipedia.org/wiki/Carlos_Castaneda) books. There are [older meanings](https://en.wiktionary.org/wiki/tonalli#Nahuatl), too." %}

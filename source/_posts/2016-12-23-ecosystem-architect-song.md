@@ -2,6 +2,7 @@
 title: Ecosystem Architect's Song
 category: play
 tags: organization
+author: spencer@ultroneous.org
 ---
 
 (a musical interlude){% marginnote "Disclaimer: self-parody ensues." %}

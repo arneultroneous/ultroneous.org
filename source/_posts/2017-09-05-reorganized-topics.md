@@ -2,6 +2,7 @@
 title: Reorganized Topics
 category: announcement
 tags: language organization learning
+author: spencer@ultroneous.org
 ---
 
 The posts on this blog are connected by threads of meaning, which I call "core topics". I try to make these visible by tagging them with certain key words. For example, *language* is one. *Organization* is another.

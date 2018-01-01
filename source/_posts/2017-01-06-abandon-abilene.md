@@ -2,6 +2,7 @@
 title: Abandon Abilene
 category: article
 tags: organization trust
+author: spencer@ultroneous.org
 ---
 
 The [Abilene paradox](https://en.wikipedia.org/wiki/Abilene_paradox) is a nasty little story that neatly describes a phenomenon where groups make collective decisions that *every individual member of the group* may be opposed to. This phenomenon is a global epidemic.

@@ -2,6 +2,7 @@
 title: Threshold of Action
 category: journal
 tags: trust lucidity organization
+author: spencer@ultroneous.org
 ---
 
 I feel like something is about to happen.

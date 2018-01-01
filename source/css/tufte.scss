@@ -275,7 +275,8 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
                    color: $contrast-color;
                    top: 0rem; } //removed superscripting for numerical reference in sidenote
 
-p, footer, div.table-wrapper, div.mathblock{ width: 55%; }
+p, li, footer, div.table-wrapper, div.mathblock{ width: 55%; }
+li > p { width: 100%; } // Sometimes list items contain paragraphs, sometimes not. This produces consistent widths in both cases.
 
 div.table-wrapper { overflow-x: auto; } //changed all overflow values to 'auto' so scroll bars appear only as needed
 

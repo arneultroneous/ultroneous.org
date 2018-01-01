@@ -6336,6 +6336,15 @@
   to: World
   category: lodging
   reason: 108 contribution.
+- date: 2017-12-14 
+  time: 15:22
+  timezone: WET
+  amount: 20
+  currency: EUR
+  from: Spencer Campbell
+  to: World
+  category: gifts
+  reason: "Contribution to 200 EUR budget for buying couches, etc., for the Landhaus in Tamera."
 - date: 2017-12-21
   time: 22:08
   timezone: UTC+0

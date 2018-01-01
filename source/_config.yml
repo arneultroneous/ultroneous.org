@@ -1,9 +1,9 @@
 baseurl:
-title: Ultroneous Organization
-author: Spencer Campbell
+title: Veda Cooperative
+author: Veda Cooperative
 simple_search: http://google.com/search
-description: A blog about the prisoner's dilemma.
-name: ultroneous.org
+description: A way of working together.
+name: veda
 markdown: kramdown
 markdown_ext: "md"
 timezone: Europe/Lisbon
@@ -18,3 +18,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: "guide"
+      type: "pages"
+    values:
+      layout: "method-booklet"

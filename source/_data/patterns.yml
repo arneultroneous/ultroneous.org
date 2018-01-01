@@ -181,6 +181,42 @@
     - "using whole-brain posture"
 - name: "using whole-brain posture"
   expectations: TODO
+- name: "living together"
+  expectations:
+    - "We feel good in our phsyical space according to the circumstances."
+    - "We feel encouraged to share whatever is on our hearts and trust in the people around us."
+    - "We communicate our own boundaries freely and happily and respect the boundaries of others."
+    - "We take the responsibility for our own happiness and well being and communicate cleary."
+    - "We take care of each other and comunicate our limits while doing so."
+  subpatterns:
+    - "communicating limits, boundariesand wishes freely and with a good feeling"
+    - "checking for consent, input, wishes, concerns of the beings we live with"
+    - "moving to a new place"
+- name: "communcating limits, boundaries and wishes freely and with a good feeling"
+  expectations:
+    - "We take the responsibility for our wishes and desires, whatever they might be."
+    - "We expect that noone but ourselves knows about the these disires until we communicate them cleary."
+    - "We know that our wishes are not the only wishes and state them in a respectful manner that leaves space for the beings around us to communicate there's."
+    - "We give room for wishes to be heard and receive them in a non-judgemental way."
+    - "We trust that our heartfelt wishes are received with love."
+    - "We check if the person(s) we want to talk to is(are) able to receive our words and feelings."
+- name: "checking for constens, input, wishes, concerns of the beings we live with"
+  expectaions:
+    - "We ask the beings around us for concerns of any kind before taking actions into a direction that might effect them."
+    - "We know what we intend to do and integrate helpful information."
+    - "We share concerns with love and in consciousness that they are our own truth."
+- name: "moving to a new place"
+  expectations:
+    - "We check for important personal factors and double-check if the new place is fitting."
+    - "We share what is important for us knowing that nobdy except ourselves knows until we share."
+    - "We always intend to find the perfect place for all our desires."
+    - "We receive what we get and have with all the love and gratitude possible, knowing that sometimes not all the desires are met."
+    - "We clarify expectations with the owner of the place."
+- name: "creating a task"
+  expectations:
+    - "I choose a note in the 'Notes' Kanban, if excisting."
+    - "I create a One-Minute-Goal."
+    - "I form a gerund phrase into a card in the tasks KanBan."
 - name: "starting projects"
   expectations:
     - "When we expect a task to take longer than one day, we call it a project."

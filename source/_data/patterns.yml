@@ -1,3 +1,9 @@
+- name: "Accepting payment in Credit."
+  expectations:
+    - "We insist that the person as the accepted form of Credit set asside."
+    - "We chose a person responsible for holding the new account of Credit created to the entity in question."
+    - "The person responsible for holding the credit makes a transaction from World, to -Credit.holder-."
+    - "Any Credit amount received by the entitie in question is a transaction from -Credit.holder- to -recipient.acount-."
 - name: "booking poeple"
   expectations:
     - "We concent on a time, place, duration and topic."
@@ -73,7 +79,16 @@
     - "We only trade for joy."
     - "We stay in high awareness of our emotional wellbeing, and speak to our team when trading is causing stress in our lives."
     - "We look at the market as an animal, buying to care for it when it's weak, and selling to set it free when it's strong."
-    - "If we strongly believe that cryptocurrency will take over the world in the coming years, we only trade in bear markets, never in bull markets."
+    - "We consciously enter in the field of traiding, by making a ritual/prayer before starting and another one at the end."
+    - "We set goals and exit strategies before initiating a trade."
+    - "We stick to the set goals unless the market responds in a clear way informing us that we shouldn't."
+    - "We don't try to compensate for losses."
+    - "We never keep money stored in an exchange."
+    - "We celebrate with the team our significant trades."
+    - "We keep all trades documented and we check all balances involved before and after finishing trading."
+    - "We keep the private keys encrypted."
+    - "We make sure that the sensible files containing private keys do not get ever decrypted to any form of permanent memory like HDD's or a piece of paper."
+    - "We make sure that we delete the files properly and reboot the system."
 - name: "involving people"
   expectations:
     - "We hold weekly online circles, where we invite our friends to connect with us."

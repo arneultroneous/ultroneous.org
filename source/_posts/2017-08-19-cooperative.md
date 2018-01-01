@@ -2,6 +2,7 @@
 title: A Cooperative
 category: article
 tags: learning organization language home
+author: spencer@ultroneous.org
 ---
 
 To make sense, this article needs to coin a couple terms. The first is "unbusiness".

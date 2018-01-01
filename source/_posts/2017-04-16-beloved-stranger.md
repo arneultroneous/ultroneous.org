@@ -2,6 +2,7 @@
 title: Beloved Stranger
 category: play
 tags: love
+author: spencer@ultroneous.org
 ---
 
 (a letter found in the ruins of a forgotten culture, where [museums]({% post_url 2017-03-18-artist-muse-love %}) were commonplace)

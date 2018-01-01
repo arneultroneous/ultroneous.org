@@ -2,6 +2,7 @@
 title: Cultivation
 category: article
 tags: home language organization lucidity
+author: spencer@ultroneous.org
 ---
 
 This is an attempt at describing how I want to garden, or farm, or do forestry, or practice permaculture.{% sidenote "As a disclaimer: I'm not even an amateur yet. My intent is to share my vision, just the way it is, knowing it will change as I gain experience. I don't want to prescribe anything to anyone else, at this stage." %}

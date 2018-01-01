@@ -2,6 +2,7 @@
 title: Roles in a Cooperative
 category: journal
 tags: language organization
+author: spencer@ultroneous.org
 ---
 
 In [the previous journal entry]({% post_url 2017-07-09-remaking-relationship %}), I posed a question. I didn't finish answering it that time, and I won't this time, either.

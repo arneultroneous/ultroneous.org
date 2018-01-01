@@ -2,6 +2,7 @@
 title: Winter Solstice
 category: journal
 tags: language
+author: spencer@ultroneous.org
 ---
 
 Today is the 28th winter solstice of my life, and I'm starting a blog.

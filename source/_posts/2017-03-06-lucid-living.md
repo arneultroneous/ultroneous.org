@@ -2,6 +2,7 @@
 title: Lucid Living
 category: journal
 tags: lucidity
+author: spencer@ultroneous.org
 ---
 
 Over the last year, I've noticed more [synchronistic events](https://en.wikipedia.org/wiki/Synchronicity) than I have in all the previous years of my life put together.

@@ -217,4 +217,11 @@
     - "I choose a note in the 'Notes' Kanban, if excisting."
     - "I create a One-Minute-Goal."
     - "I form a gerund phrase into a card in the tasks KanBan."
-    
+- name: "starting projects"
+  expectations:
+    - "When we expect a task to take longer than one day, we call it a project."
+    - "We gather consent from our team before starting projects, as a way of gaining more perspective on how to use our valuable time to the best potential."
+- name: "linking to a website"
+  expectations:
+    - "We link people to ultroneous.org when they ask if we have a website."
+    - "We don't spread our domain name around opportunistically."

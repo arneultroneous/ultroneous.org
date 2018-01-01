@@ -2,6 +2,7 @@
 title: House of Dreams
 category: play
 tags: organization trust
+author: spencer@ultroneous.org
 ---
 
 (fanfiction of [Hitherby Dragons](http://hitherby.com/), and particularly [The Storm that Saw Itself](http://books.hitherby.com/?cat=22))

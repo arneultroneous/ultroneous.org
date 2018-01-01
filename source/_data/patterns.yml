@@ -1,3 +1,13 @@
+- name: "Accepting payment in Credit."
+  expectations:
+    - "We insist that the person as the accepted form of Credit set asside."
+    - "We chose a person responsible for holding the new account of Credit created to the entity in question."
+    - "The person responsible for holding the credit makes a transaction from World, to -Credit.holder-."
+    - "Any Credit amount received by the entitie in question is a transaction from -Credit.holder- to -recipient.acount-."
+- name: "booking poeple"
+  expectations:
+    - "We concent on a time, place, duration and topic."
+    - "We look at the calendars for everyone involved."
 - name: "cultivating healthy habits"
   subpatterns:
     - "observing body feeling after eating"
@@ -69,7 +79,16 @@
     - "We only trade for joy."
     - "We stay in high awareness of our emotional wellbeing, and speak to our team when trading is causing stress in our lives."
     - "We look at the market as an animal, buying to care for it when it's weak, and selling to set it free when it's strong."
-    - "If we strongly believe that cryptocurrency will take over the world in the coming years, we only trade in bear markets, never in bull markets."
+    - "We consciously enter in the field of traiding, by making a ritual/prayer before starting and another one at the end."
+    - "We set goals and exit strategies before initiating a trade."
+    - "We stick to the set goals unless the market responds in a clear way informing us that we shouldn't."
+    - "We don't try to compensate for losses."
+    - "We never keep money stored in an exchange."
+    - "We celebrate with the team our significant trades."
+    - "We keep all trades documented and we check all balances involved before and after finishing trading."
+    - "We keep the private keys encrypted."
+    - "We make sure that the sensible files containing private keys do not get ever decrypted to any form of permanent memory like HDD's or a piece of paper."
+    - "We make sure that we delete the files properly and reboot the system."
 - name: "involving people"
   expectations:
     - "We hold weekly online circles, where we invite our friends to connect with us."
@@ -181,6 +200,42 @@
     - "using whole-brain posture"
 - name: "using whole-brain posture"
   expectations: TODO
+- name: "living together"
+  expectations:
+    - "We feel good in our phsyical space according to the circumstances."
+    - "We feel encouraged to share whatever is on our hearts and trust in the people around us."
+    - "We communicate our own boundaries freely and happily and respect the boundaries of others."
+    - "We take the responsibility for our own happiness and well being and communicate cleary."
+    - "We take care of each other and comunicate our limits while doing so."
+  subpatterns:
+    - "communicating limits, boundariesand wishes freely and with a good feeling"
+    - "checking for consent, input, wishes, concerns of the beings we live with"
+    - "moving to a new place"
+- name: "communcating limits, boundaries and wishes freely and with a good feeling"
+  expectations:
+    - "We take the responsibility for our wishes and desires, whatever they might be."
+    - "We expect that noone but ourselves knows about the these disires until we communicate them cleary."
+    - "We know that our wishes are not the only wishes and state them in a respectful manner that leaves space for the beings around us to communicate there's."
+    - "We give room for wishes to be heard and receive them in a non-judgemental way."
+    - "We trust that our heartfelt wishes are received with love."
+    - "We check if the person(s) we want to talk to is(are) able to receive our words and feelings."
+- name: "checking for constens, input, wishes, concerns of the beings we live with"
+  expectaions:
+    - "We ask the beings around us for concerns of any kind before taking actions into a direction that might effect them."
+    - "We know what we intend to do and integrate helpful information."
+    - "We share concerns with love and in consciousness that they are our own truth."
+- name: "moving to a new place"
+  expectations:
+    - "We check for important personal factors and double-check if the new place is fitting."
+    - "We share what is important for us knowing that nobdy except ourselves knows until we share."
+    - "We always intend to find the perfect place for all our desires."
+    - "We receive what we get and have with all the love and gratitude possible, knowing that sometimes not all the desires are met."
+    - "We clarify expectations with the owner of the place."
+- name: "creating a task"
+  expectations:
+    - "I choose a note in the 'Notes' Kanban, if excisting."
+    - "I create a One-Minute-Goal."
+    - "I form a gerund phrase into a card in the tasks KanBan."
 - name: "starting projects"
   expectations:
     - "When we expect a task to take longer than one day, we call it a project."

@@ -6150,6 +6150,22 @@
   from: World
   to: Dio Alma
   reason: "Commitment from Spencer."
+- date: 2017-11-11
+  time: 09:57
+  timezone: WET
+  amount: 75
+  currency: EUR
+  from: Shirley Norwood
+  to: World
+  reason: "Paying for groceries."
+- date: 2017-11-11
+  time: 09:57
+  timezone: WET
+  amount: 18.92
+  currency: EUR
+  from: Spencer Campbell
+  to: World
+  reason: "Paying for groceries."
 - date: 2017-11-20
   time: 17:00
   timezone: UTC+0

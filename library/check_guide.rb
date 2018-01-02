@@ -2,7 +2,6 @@
 
 require 'yaml'
 require 'find'
-require 'pp'
 
 class Methods
     def initialize(path)
@@ -37,12 +36,33 @@ class Methods
     end
 
     def not_integrated
+        # TODO: only return methods that aren't prerequisites of other methods in this set
         return @methods - self.of_veda
+    end
+
+    def missing_prerequisites(method)
+        missing = []
+        method['intro']['prerequisites'].each do |title|
+            missing << title unless self.find_by_title(title)
+        end
+        return missing
+    end
+
+    def not_written
+        return @methods.map { |method| self.missing_prerequisites(method) } .reduce(:concat).uniq
     end
 end
 
-# Initialize
 methods = Methods.new('source/guide')
 
-puts "Methods not yet integrated:"
-pp methods.not_integrated.map { |method| method['title'] }
+puts "Methods to be integrated:"
+methods.not_integrated.each do |method|
+    puts "- #{method['title']}"
+end
+
+puts nil # blank line
+
+puts "Methods to be written:"
+methods.not_written.each do |title|
+    puts "- #{title}"
+end

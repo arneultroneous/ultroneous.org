@@ -11,3 +11,6 @@ build: source
 
 deploy: build
 	rsync -rv --delete --exclude=share --exclude=grace-foundation build/ $(DOMAIN):$(DOCROOT)/
+
+check:
+	docker run --rm -v $$PWD/library:/library -v $$PWD/source:/source ruby /library/check_guide.rb

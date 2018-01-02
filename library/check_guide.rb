@@ -4,9 +4,14 @@ require 'yaml'
 require 'find'
 require 'pp'
 
-paths = []
+
+# Find method files
+methods = []
 Find.find('source/guide') do |path|
-    paths << path if path =~ /.*index.md/
+    methods << path if path =~ /.*index.md/
 end
 
-pp paths
+# Load YAML from method files
+methods.map! { |file| YAML.load(File.read(file)) }
+
+pp methods

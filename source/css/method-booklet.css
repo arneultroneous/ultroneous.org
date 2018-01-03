@@ -85,3 +85,8 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.booklet .text.page li
+{
+    width: 100%;
+}

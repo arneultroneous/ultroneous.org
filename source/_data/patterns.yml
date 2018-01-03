@@ -1,11 +1,11 @@
-
 - name: "reporting transactions to the Treasure Chest"
-  elements:
+  expectations:
     - "We take note of the Coinbag used, reason, time, date, currency, sender, receipient and amount of the transaction."
-    - "In the situation of "time", if not available or applicable, the sign of n/a is considered as such.
+    - "In the situation of 'time', if not available or applicable, the sign of n/a is considered as such."
     - "We insert this noted information in the format accepted by the Treasure Chest."
     - "We create a pull request with the newly inserted transactions in the transactions.yml file or we ask for assistance of the cibernetics circle to do so."
 - name: "sustaining financial health"
+  expectations:
     - "We consider the financial health of the Treasure chest."
     - "We bring up concerns regaring the Treasure Chest."
     - "We bring up improvement suggestions regarding the Treasure Chest."
@@ -46,7 +46,7 @@
     - "We explain that bitcoin's blockchain is a list of transactions, each consisting of a sender, a receiver, an amount, a fee, and a miner."
     - "We explain how bitcoin mining works as a process of computers trying to guess numbers, finding one that fits with one block of transactions, so that the hashing algorithm converts the block into a hash with sufficiently many zeroes at the front."
 - name: "answering team email"
-  elements:
+  expectations:
     - "Our team has an email account, which we share responsibility for answering."
     - "We keep every thread assigned to at least one of us."
     - "We are responsible for replying to the threads in the inbox that are assigned to us."

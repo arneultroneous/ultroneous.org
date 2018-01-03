@@ -10,7 +10,7 @@
             <hr />
             <ul>
                 {% for prerequisite in page.intro.prerequisites %}
-                <li><a href="/guide/{{prerequisite | slugify}}">{{prerequisite}}</a></li>
+                <li>{{ prerequisite | method_link }}</li>
                 {% endfor %}
             </ul>
             {% endif %}
